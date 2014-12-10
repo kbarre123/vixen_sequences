@@ -23,94 +23,274 @@
   </Channels>
   <Nodes>
     <Node name="Dormers" id="7f236a59-bda9-4e61-8285-a00da636ece0">
-      <Node name="Dormer-1" id="c2b59ab5-0fd2-459d-a0ea-6f90d5e09636" channelId="1cc54d2d-2729-4210-a0c8-9e153d11eb00" />
-      <Node name="Dormer-2" id="85c89d02-f97d-4446-a6c7-73775ff8449f" channelId="68d42394-f520-4b6b-8934-bd8de9f5f39d" />
-      <Node name="Dormer-3" id="38646e18-fbf1-434e-bb76-7c86e4f81b9b" channelId="8fb6ea3e-f398-4a3e-bc51-688cdc1bf219" />
+      <Node name="Dormer-1" id="c2b59ab5-0fd2-459d-a0ea-6f90d5e09636" channelId="1cc54d2d-2729-4210-a0c8-9e153d11eb00">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="44b5c26e-99fc-4f76-a484-dc853bd96f1f" />
+        </Properties>
+      </Node>
+      <Node name="Dormer-2" id="85c89d02-f97d-4446-a6c7-73775ff8449f" channelId="68d42394-f520-4b6b-8934-bd8de9f5f39d">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="10fadb23-6e6e-4b49-ada8-975a9aa09fb8" />
+        </Properties>
+      </Node>
+      <Node name="Dormer-3" id="38646e18-fbf1-434e-bb76-7c86e4f81b9b" channelId="8fb6ea3e-f398-4a3e-bc51-688cdc1bf219">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="1e520463-ab7b-4037-bf22-766e518b1e74" />
+        </Properties>
+      </Node>
     </Node>
-    <Node name="Roof" id="2f28890f-a218-43c6-8115-ef9e273803c8" channelId="ffd4168b-5d06-47df-a461-3905ae143dc3" />
+    <Node name="Roof" id="2f28890f-a218-43c6-8115-ef9e273803c8" channelId="ffd4168b-5d06-47df-a461-3905ae143dc3">
+      <Properties>
+        <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="355e2101-44d6-4390-a2f2-01cbf818c50a" />
+      </Properties>
+    </Node>
     <Node name="Posts" id="7c0c8974-570f-4fbf-9cfb-f1cca391eea1">
-      <Node name="Post-1" id="a74f7425-82fa-483f-9752-790923ab1ee9" channelId="075984fd-615c-4a2d-a032-d4df591c4e53" />
-      <Node name="Post-2" id="1416204f-0864-45b8-8212-b7727949d9fa" channelId="5feec9cd-43a5-4b9b-81b7-647ebce645df" />
-      <Node name="Post-3" id="32f6afa7-e5a4-4270-94d9-3a28a837e2ae" channelId="7b4b82c0-5b2a-4c1f-b2ce-0ca36ab90c41" />
-      <Node name="Post-4" id="6cc42dd4-866f-44a6-a4c9-cf7652aa8125" channelId="fa86a5c5-6afb-4599-87f5-104277bdd815" />
-      <Node name="Post-5" id="c77d4ff3-bde5-49c4-9708-c8b0b4b0aa99" channelId="540ae612-63b5-42a7-beb8-fd7ccc224e7a" />
+      <Node name="Post-1" id="a74f7425-82fa-483f-9752-790923ab1ee9" channelId="075984fd-615c-4a2d-a032-d4df591c4e53">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="3e9d4237-aaac-43b3-be5b-3e908665e995" />
+        </Properties>
+      </Node>
+      <Node name="Post-2" id="1416204f-0864-45b8-8212-b7727949d9fa" channelId="5feec9cd-43a5-4b9b-81b7-647ebce645df">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="89603af0-9a1f-4661-9d8a-b11c99d58223" />
+        </Properties>
+      </Node>
+      <Node name="Post-3" id="32f6afa7-e5a4-4270-94d9-3a28a837e2ae" channelId="7b4b82c0-5b2a-4c1f-b2ce-0ca36ab90c41">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="0ca91500-bf8a-460d-990a-3d7aab428f45" />
+        </Properties>
+      </Node>
+      <Node name="Post-4" id="6cc42dd4-866f-44a6-a4c9-cf7652aa8125" channelId="fa86a5c5-6afb-4599-87f5-104277bdd815">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="cd4205e9-044d-4e6f-a222-0b209d2775d8" />
+        </Properties>
+      </Node>
+      <Node name="Post-5" id="c77d4ff3-bde5-49c4-9708-c8b0b4b0aa99" channelId="540ae612-63b5-42a7-beb8-fd7ccc224e7a">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="4c49e6ed-610e-49ac-a1e5-2c3d6fcb6e3b" />
+        </Properties>
+      </Node>
     </Node>
     <Node name="Bushes" id="188b951d-311c-4667-ad94-168f4d6b9d43">
-      <Node name="Bush-1" id="9d409f95-309c-476f-9f83-4d8d56ad6f03" channelId="f1acf0f1-6d29-49b3-b718-2d464861f478" />
+      <Node name="Bush-1" id="9d409f95-309c-476f-9f83-4d8d56ad6f03" channelId="f1acf0f1-6d29-49b3-b718-2d464861f478">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="8ab27075-4197-4a12-9fe7-5780c48a0770" />
+        </Properties>
+      </Node>
       <Node name="Bush-2" id="bf24a77f-21ce-4fdc-a727-df2c5203c099" channelId="dfb7d4bc-c927-49eb-8b1c-aa91d2bed62b" />
     </Node>
     <Node name="Small Trees" id="afdd2b31-196c-4df9-84b4-1961d3b1f50b">
-      <Node name="Small Tree-1" id="31ae32fe-7baa-468b-8deb-27e7c6dc0eb2" channelId="69f1fee2-44f4-4ca1-ba33-899dd5915567" />
-      <Node name="Small Tree-2" id="c2f93637-418b-4e37-a2d4-20ee0e322daf" channelId="18d2922b-1384-44a4-9ad8-866d0596cce2" />
-      <Node name="Small Tree-3" id="5f1bb345-8528-4593-a323-e6d6223f1182" channelId="1eb0e6e2-a29d-4ef8-aa66-882888e94f87" />
+      <Node name="Small Tree-1" id="31ae32fe-7baa-468b-8deb-27e7c6dc0eb2" channelId="69f1fee2-44f4-4ca1-ba33-899dd5915567">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="cca55aef-635a-4f10-a57f-5576a8ee5a2f" />
+        </Properties>
+      </Node>
+      <Node name="Small Tree-2" id="c2f93637-418b-4e37-a2d4-20ee0e322daf" channelId="18d2922b-1384-44a4-9ad8-866d0596cce2">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="9cfa3ac8-d699-4d1c-937f-e33c39b4663b" />
+        </Properties>
+      </Node>
+      <Node name="Small Tree-3" id="5f1bb345-8528-4593-a323-e6d6223f1182" channelId="1eb0e6e2-a29d-4ef8-aa66-882888e94f87">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="d23dd675-c246-4ada-87e6-f9b44b59d996" />
+        </Properties>
+      </Node>
     </Node>
     <Node name="Big Trees" id="61c0569c-7ba8-456a-aca7-e5da4f8ca727">
-      <Node name="Big Tree-1" id="d453f689-c4e7-4751-8128-a67e56c2b1a0" channelId="4b1713f2-9905-4c71-966d-925169659207" />
-      <Node name="Big Tree-2" id="91f40272-c48e-41e8-93cf-43b25e207c22" channelId="a1f77871-59d7-4d3d-8ae5-16da604fa384" />
+      <Node name="Big Tree-1" id="d453f689-c4e7-4751-8128-a67e56c2b1a0" channelId="4b1713f2-9905-4c71-966d-925169659207">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="a0737be6-8115-4f80-9814-71980d3bae68" />
+        </Properties>
+      </Node>
+      <Node name="Big Tree-2" id="91f40272-c48e-41e8-93cf-43b25e207c22" channelId="a1f77871-59d7-4d3d-8ae5-16da604fa384">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="7ad130d2-10fb-4a84-b6ca-53e5576c7da2" />
+        </Properties>
+      </Node>
     </Node>
     <Node name="Top" id="45d2e973-fc8a-45de-8af7-aa3ff13924ec">
       <Node name="Dormers" id="7f236a59-bda9-4e61-8285-a00da636ece0">
-        <Node name="Dormer-1" id="c2b59ab5-0fd2-459d-a0ea-6f90d5e09636" channelId="1cc54d2d-2729-4210-a0c8-9e153d11eb00" />
-        <Node name="Dormer-2" id="85c89d02-f97d-4446-a6c7-73775ff8449f" channelId="68d42394-f520-4b6b-8934-bd8de9f5f39d" />
-        <Node name="Dormer-3" id="38646e18-fbf1-434e-bb76-7c86e4f81b9b" channelId="8fb6ea3e-f398-4a3e-bc51-688cdc1bf219" />
+        <Node name="Dormer-1" id="c2b59ab5-0fd2-459d-a0ea-6f90d5e09636" channelId="1cc54d2d-2729-4210-a0c8-9e153d11eb00">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="44b5c26e-99fc-4f76-a484-dc853bd96f1f" />
+          </Properties>
+        </Node>
+        <Node name="Dormer-2" id="85c89d02-f97d-4446-a6c7-73775ff8449f" channelId="68d42394-f520-4b6b-8934-bd8de9f5f39d">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="10fadb23-6e6e-4b49-ada8-975a9aa09fb8" />
+          </Properties>
+        </Node>
+        <Node name="Dormer-3" id="38646e18-fbf1-434e-bb76-7c86e4f81b9b" channelId="8fb6ea3e-f398-4a3e-bc51-688cdc1bf219">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="1e520463-ab7b-4037-bf22-766e518b1e74" />
+          </Properties>
+        </Node>
       </Node>
-      <Node name="Roof" id="2f28890f-a218-43c6-8115-ef9e273803c8" channelId="ffd4168b-5d06-47df-a461-3905ae143dc3" />
+      <Node name="Roof" id="2f28890f-a218-43c6-8115-ef9e273803c8" channelId="ffd4168b-5d06-47df-a461-3905ae143dc3">
+        <Properties>
+          <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="355e2101-44d6-4390-a2f2-01cbf818c50a" />
+        </Properties>
+      </Node>
     </Node>
     <Node name="Middle" id="70fa9e87-8a9c-46d8-b6bd-01819fa7b521">
       <Node name="Posts" id="7c0c8974-570f-4fbf-9cfb-f1cca391eea1">
-        <Node name="Post-1" id="a74f7425-82fa-483f-9752-790923ab1ee9" channelId="075984fd-615c-4a2d-a032-d4df591c4e53" />
-        <Node name="Post-2" id="1416204f-0864-45b8-8212-b7727949d9fa" channelId="5feec9cd-43a5-4b9b-81b7-647ebce645df" />
-        <Node name="Post-3" id="32f6afa7-e5a4-4270-94d9-3a28a837e2ae" channelId="7b4b82c0-5b2a-4c1f-b2ce-0ca36ab90c41" />
-        <Node name="Post-4" id="6cc42dd4-866f-44a6-a4c9-cf7652aa8125" channelId="fa86a5c5-6afb-4599-87f5-104277bdd815" />
-        <Node name="Post-5" id="c77d4ff3-bde5-49c4-9708-c8b0b4b0aa99" channelId="540ae612-63b5-42a7-beb8-fd7ccc224e7a" />
+        <Node name="Post-1" id="a74f7425-82fa-483f-9752-790923ab1ee9" channelId="075984fd-615c-4a2d-a032-d4df591c4e53">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="3e9d4237-aaac-43b3-be5b-3e908665e995" />
+          </Properties>
+        </Node>
+        <Node name="Post-2" id="1416204f-0864-45b8-8212-b7727949d9fa" channelId="5feec9cd-43a5-4b9b-81b7-647ebce645df">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="89603af0-9a1f-4661-9d8a-b11c99d58223" />
+          </Properties>
+        </Node>
+        <Node name="Post-3" id="32f6afa7-e5a4-4270-94d9-3a28a837e2ae" channelId="7b4b82c0-5b2a-4c1f-b2ce-0ca36ab90c41">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="0ca91500-bf8a-460d-990a-3d7aab428f45" />
+          </Properties>
+        </Node>
+        <Node name="Post-4" id="6cc42dd4-866f-44a6-a4c9-cf7652aa8125" channelId="fa86a5c5-6afb-4599-87f5-104277bdd815">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="cd4205e9-044d-4e6f-a222-0b209d2775d8" />
+          </Properties>
+        </Node>
+        <Node name="Post-5" id="c77d4ff3-bde5-49c4-9708-c8b0b4b0aa99" channelId="540ae612-63b5-42a7-beb8-fd7ccc224e7a">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="4c49e6ed-610e-49ac-a1e5-2c3d6fcb6e3b" />
+          </Properties>
+        </Node>
       </Node>
       <Node name="Bushes" id="188b951d-311c-4667-ad94-168f4d6b9d43">
-        <Node name="Bush-1" id="9d409f95-309c-476f-9f83-4d8d56ad6f03" channelId="f1acf0f1-6d29-49b3-b718-2d464861f478" />
+        <Node name="Bush-1" id="9d409f95-309c-476f-9f83-4d8d56ad6f03" channelId="f1acf0f1-6d29-49b3-b718-2d464861f478">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="8ab27075-4197-4a12-9fe7-5780c48a0770" />
+          </Properties>
+        </Node>
         <Node name="Bush-2" id="bf24a77f-21ce-4fdc-a727-df2c5203c099" channelId="dfb7d4bc-c927-49eb-8b1c-aa91d2bed62b" />
       </Node>
     </Node>
     <Node name="Bottom" id="890162c4-bb9f-41cf-bacf-5cd698676036">
       <Node name="Small Trees" id="afdd2b31-196c-4df9-84b4-1961d3b1f50b">
-        <Node name="Small Tree-1" id="31ae32fe-7baa-468b-8deb-27e7c6dc0eb2" channelId="69f1fee2-44f4-4ca1-ba33-899dd5915567" />
-        <Node name="Small Tree-2" id="c2f93637-418b-4e37-a2d4-20ee0e322daf" channelId="18d2922b-1384-44a4-9ad8-866d0596cce2" />
-        <Node name="Small Tree-3" id="5f1bb345-8528-4593-a323-e6d6223f1182" channelId="1eb0e6e2-a29d-4ef8-aa66-882888e94f87" />
+        <Node name="Small Tree-1" id="31ae32fe-7baa-468b-8deb-27e7c6dc0eb2" channelId="69f1fee2-44f4-4ca1-ba33-899dd5915567">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="cca55aef-635a-4f10-a57f-5576a8ee5a2f" />
+          </Properties>
+        </Node>
+        <Node name="Small Tree-2" id="c2f93637-418b-4e37-a2d4-20ee0e322daf" channelId="18d2922b-1384-44a4-9ad8-866d0596cce2">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="9cfa3ac8-d699-4d1c-937f-e33c39b4663b" />
+          </Properties>
+        </Node>
+        <Node name="Small Tree-3" id="5f1bb345-8528-4593-a323-e6d6223f1182" channelId="1eb0e6e2-a29d-4ef8-aa66-882888e94f87">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="d23dd675-c246-4ada-87e6-f9b44b59d996" />
+          </Properties>
+        </Node>
       </Node>
       <Node name="Big Trees" id="61c0569c-7ba8-456a-aca7-e5da4f8ca727">
-        <Node name="Big Tree-1" id="d453f689-c4e7-4751-8128-a67e56c2b1a0" channelId="4b1713f2-9905-4c71-966d-925169659207" />
-        <Node name="Big Tree-2" id="91f40272-c48e-41e8-93cf-43b25e207c22" channelId="a1f77871-59d7-4d3d-8ae5-16da604fa384" />
+        <Node name="Big Tree-1" id="d453f689-c4e7-4751-8128-a67e56c2b1a0" channelId="4b1713f2-9905-4c71-966d-925169659207">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="a0737be6-8115-4f80-9814-71980d3bae68" />
+          </Properties>
+        </Node>
+        <Node name="Big Tree-2" id="91f40272-c48e-41e8-93cf-43b25e207c22" channelId="a1f77871-59d7-4d3d-8ae5-16da604fa384">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="7ad130d2-10fb-4a84-b6ca-53e5576c7da2" />
+          </Properties>
+        </Node>
       </Node>
     </Node>
     <Node name="All" id="de168c5f-00d4-4ebf-b63a-0e8a1b8f03af">
       <Node name="Top" id="45d2e973-fc8a-45de-8af7-aa3ff13924ec">
         <Node name="Dormers" id="7f236a59-bda9-4e61-8285-a00da636ece0">
-          <Node name="Dormer-1" id="c2b59ab5-0fd2-459d-a0ea-6f90d5e09636" channelId="1cc54d2d-2729-4210-a0c8-9e153d11eb00" />
-          <Node name="Dormer-2" id="85c89d02-f97d-4446-a6c7-73775ff8449f" channelId="68d42394-f520-4b6b-8934-bd8de9f5f39d" />
-          <Node name="Dormer-3" id="38646e18-fbf1-434e-bb76-7c86e4f81b9b" channelId="8fb6ea3e-f398-4a3e-bc51-688cdc1bf219" />
+          <Node name="Dormer-1" id="c2b59ab5-0fd2-459d-a0ea-6f90d5e09636" channelId="1cc54d2d-2729-4210-a0c8-9e153d11eb00">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="44b5c26e-99fc-4f76-a484-dc853bd96f1f" />
+            </Properties>
+          </Node>
+          <Node name="Dormer-2" id="85c89d02-f97d-4446-a6c7-73775ff8449f" channelId="68d42394-f520-4b6b-8934-bd8de9f5f39d">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="10fadb23-6e6e-4b49-ada8-975a9aa09fb8" />
+            </Properties>
+          </Node>
+          <Node name="Dormer-3" id="38646e18-fbf1-434e-bb76-7c86e4f81b9b" channelId="8fb6ea3e-f398-4a3e-bc51-688cdc1bf219">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="1e520463-ab7b-4037-bf22-766e518b1e74" />
+            </Properties>
+          </Node>
         </Node>
-        <Node name="Roof" id="2f28890f-a218-43c6-8115-ef9e273803c8" channelId="ffd4168b-5d06-47df-a461-3905ae143dc3" />
+        <Node name="Roof" id="2f28890f-a218-43c6-8115-ef9e273803c8" channelId="ffd4168b-5d06-47df-a461-3905ae143dc3">
+          <Properties>
+            <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="355e2101-44d6-4390-a2f2-01cbf818c50a" />
+          </Properties>
+        </Node>
       </Node>
       <Node name="Middle" id="70fa9e87-8a9c-46d8-b6bd-01819fa7b521">
         <Node name="Posts" id="7c0c8974-570f-4fbf-9cfb-f1cca391eea1">
-          <Node name="Post-1" id="a74f7425-82fa-483f-9752-790923ab1ee9" channelId="075984fd-615c-4a2d-a032-d4df591c4e53" />
-          <Node name="Post-2" id="1416204f-0864-45b8-8212-b7727949d9fa" channelId="5feec9cd-43a5-4b9b-81b7-647ebce645df" />
-          <Node name="Post-3" id="32f6afa7-e5a4-4270-94d9-3a28a837e2ae" channelId="7b4b82c0-5b2a-4c1f-b2ce-0ca36ab90c41" />
-          <Node name="Post-4" id="6cc42dd4-866f-44a6-a4c9-cf7652aa8125" channelId="fa86a5c5-6afb-4599-87f5-104277bdd815" />
-          <Node name="Post-5" id="c77d4ff3-bde5-49c4-9708-c8b0b4b0aa99" channelId="540ae612-63b5-42a7-beb8-fd7ccc224e7a" />
+          <Node name="Post-1" id="a74f7425-82fa-483f-9752-790923ab1ee9" channelId="075984fd-615c-4a2d-a032-d4df591c4e53">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="3e9d4237-aaac-43b3-be5b-3e908665e995" />
+            </Properties>
+          </Node>
+          <Node name="Post-2" id="1416204f-0864-45b8-8212-b7727949d9fa" channelId="5feec9cd-43a5-4b9b-81b7-647ebce645df">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="89603af0-9a1f-4661-9d8a-b11c99d58223" />
+            </Properties>
+          </Node>
+          <Node name="Post-3" id="32f6afa7-e5a4-4270-94d9-3a28a837e2ae" channelId="7b4b82c0-5b2a-4c1f-b2ce-0ca36ab90c41">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="0ca91500-bf8a-460d-990a-3d7aab428f45" />
+            </Properties>
+          </Node>
+          <Node name="Post-4" id="6cc42dd4-866f-44a6-a4c9-cf7652aa8125" channelId="fa86a5c5-6afb-4599-87f5-104277bdd815">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="cd4205e9-044d-4e6f-a222-0b209d2775d8" />
+            </Properties>
+          </Node>
+          <Node name="Post-5" id="c77d4ff3-bde5-49c4-9708-c8b0b4b0aa99" channelId="540ae612-63b5-42a7-beb8-fd7ccc224e7a">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="4c49e6ed-610e-49ac-a1e5-2c3d6fcb6e3b" />
+            </Properties>
+          </Node>
         </Node>
         <Node name="Bushes" id="188b951d-311c-4667-ad94-168f4d6b9d43">
-          <Node name="Bush-1" id="9d409f95-309c-476f-9f83-4d8d56ad6f03" channelId="f1acf0f1-6d29-49b3-b718-2d464861f478" />
+          <Node name="Bush-1" id="9d409f95-309c-476f-9f83-4d8d56ad6f03" channelId="f1acf0f1-6d29-49b3-b718-2d464861f478">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="8ab27075-4197-4a12-9fe7-5780c48a0770" />
+            </Properties>
+          </Node>
           <Node name="Bush-2" id="bf24a77f-21ce-4fdc-a727-df2c5203c099" channelId="dfb7d4bc-c927-49eb-8b1c-aa91d2bed62b" />
         </Node>
       </Node>
       <Node name="Bottom" id="890162c4-bb9f-41cf-bacf-5cd698676036">
         <Node name="Small Trees" id="afdd2b31-196c-4df9-84b4-1961d3b1f50b">
-          <Node name="Small Tree-1" id="31ae32fe-7baa-468b-8deb-27e7c6dc0eb2" channelId="69f1fee2-44f4-4ca1-ba33-899dd5915567" />
-          <Node name="Small Tree-2" id="c2f93637-418b-4e37-a2d4-20ee0e322daf" channelId="18d2922b-1384-44a4-9ad8-866d0596cce2" />
-          <Node name="Small Tree-3" id="5f1bb345-8528-4593-a323-e6d6223f1182" channelId="1eb0e6e2-a29d-4ef8-aa66-882888e94f87" />
+          <Node name="Small Tree-1" id="31ae32fe-7baa-468b-8deb-27e7c6dc0eb2" channelId="69f1fee2-44f4-4ca1-ba33-899dd5915567">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="cca55aef-635a-4f10-a57f-5576a8ee5a2f" />
+            </Properties>
+          </Node>
+          <Node name="Small Tree-2" id="c2f93637-418b-4e37-a2d4-20ee0e322daf" channelId="18d2922b-1384-44a4-9ad8-866d0596cce2">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="9cfa3ac8-d699-4d1c-937f-e33c39b4663b" />
+            </Properties>
+          </Node>
+          <Node name="Small Tree-3" id="5f1bb345-8528-4593-a323-e6d6223f1182" channelId="1eb0e6e2-a29d-4ef8-aa66-882888e94f87">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="d23dd675-c246-4ada-87e6-f9b44b59d996" />
+            </Properties>
+          </Node>
         </Node>
         <Node name="Big Trees" id="61c0569c-7ba8-456a-aca7-e5da4f8ca727">
-          <Node name="Big Tree-1" id="d453f689-c4e7-4751-8128-a67e56c2b1a0" channelId="4b1713f2-9905-4c71-966d-925169659207" />
-          <Node name="Big Tree-2" id="91f40272-c48e-41e8-93cf-43b25e207c22" channelId="a1f77871-59d7-4d3d-8ae5-16da604fa384" />
+          <Node name="Big Tree-1" id="d453f689-c4e7-4751-8128-a67e56c2b1a0" channelId="4b1713f2-9905-4c71-966d-925169659207">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="a0737be6-8115-4f80-9814-71980d3bae68" />
+            </Properties>
+          </Node>
+          <Node name="Big Tree-2" id="91f40272-c48e-41e8-93cf-43b25e207c22" channelId="a1f77871-59d7-4d3d-8ae5-16da604fa384">
+            <Properties>
+              <Property typeId="3fb53423-dd2a-4719-b3e3-19aa6f062f62" instanceId="7ad130d2-10fb-4a84-b6ca-53e5576c7da2" />
+            </Properties>
+          </Node>
         </Node>
       </Node>
     </Node>
@@ -139,7 +319,9 @@
   </Controllers>
   <ControllerLinks />
   <SmartControllers />
-  <Previews />
+  <Previews>
+    <Preview name="Vixen Display Preview" typeId="f43c31bc-cfcd-4dbc-adb7-d349c9ec623d" instanceId="80a82557-b168-4a90-8206-130253f74410" />
+  </Previews>
   <Filters />
   <Patches>
     <Patch componentId="7ace1134-4ad7-49e6-abec-a400945383d0" sourceId="1cc54d2d-2729-4210-a0c8-9e153d11eb00" output="0" />
