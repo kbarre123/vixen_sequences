@@ -9184,3 +9184,15 @@
    at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
 12/10/2014 13:40:14 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Generic Serial experienced an error during execution and was shutdown. 
 12/10/2014 17:13:36 [VixenModules.Media.Audio.Audio] Media file does not exist: C:\Users\Pat\Music\10. Brenda Lee - Rockin' Around The Christmas Tree.mp3 
+12/10/2014 17:15:12 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/10/2014 17:15:17 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
