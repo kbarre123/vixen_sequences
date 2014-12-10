@@ -186,7 +186,7 @@
       <VixenPreviewData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Preview.VixenPreview" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">80a82557-b168-4a90-8206-130253f74410</ModuleInstanceId>
         <ModuleTypeId xmlns="">f43c31bc-cfcd-4dbc-adb7-d349c9ec623d</ModuleTypeId>
-        <BackgroundAlpha>255</BackgroundAlpha>
+        <BackgroundAlpha>52</BackgroundAlpha>
         <BackgroundFileName>C:\Users\kc\Documents\Vixen 3\Module Data Files\VixenDisplayPreview\66737e5d-ca09-4f01-9d25-b00055704c79.jpg</BackgroundFileName>
         <DisplayItems xmlns:a="http://schemas.datacontract.org/2004/07/VixenModules.Preview.VixenPreview.Shapes">
           <a:DisplayItem>
@@ -3258,8 +3258,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">355e2101-44d6-4390-a2f2-01cbf818c50a</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>971</X>
-        <Y>392</Y>
+        <X>592</X>
+        <Y>239</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3267,8 +3267,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">8ab27075-4197-4a12-9fe7-5780c48a0770</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>966</X>
-        <Y>471</Y>
+        <X>589</X>
+        <Y>287</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3276,8 +3276,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">44b5c26e-99fc-4f76-a484-dc853bd96f1f</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>544</X>
-        <Y>338</Y>
+        <X>332</X>
+        <Y>206</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3285,8 +3285,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">10fadb23-6e6e-4b49-ada8-975a9aa09fb8</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>671</X>
-        <Y>331</Y>
+        <X>409</X>
+        <Y>202</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3294,8 +3294,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">1e520463-ab7b-4037-bf22-766e518b1e74</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>817</X>
-        <Y>321</Y>
+        <X>498</X>
+        <Y>196</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3303,8 +3303,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">3e9d4237-aaac-43b3-be5b-3e908665e995</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>405</X>
-        <Y>453</Y>
+        <X>247</X>
+        <Y>276</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3312,8 +3312,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">89603af0-9a1f-4661-9d8a-b11c99d58223</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>518</X>
-        <Y>481</Y>
+        <X>316</X>
+        <Y>293</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3321,8 +3321,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">0ca91500-bf8a-460d-990a-3d7aab428f45</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>643</X>
-        <Y>476</Y>
+        <X>392</X>
+        <Y>290</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3330,8 +3330,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">cd4205e9-044d-4e6f-a222-0b209d2775d8</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>786</X>
-        <Y>461</Y>
+        <X>479</X>
+        <Y>281</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3339,8 +3339,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">4c49e6ed-610e-49ac-a1e5-2c3d6fcb6e3b</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>946</X>
-        <Y>454</Y>
+        <X>577</X>
+        <Y>277</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3348,8 +3348,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">cca55aef-635a-4f10-a57f-5576a8ee5a2f</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>462</X>
-        <Y>469</Y>
+        <X>282</X>
+        <Y>286</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3357,8 +3357,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">9cfa3ac8-d699-4d1c-937f-e33c39b4663b</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>684</X>
-        <Y>462</Y>
+        <X>417</X>
+        <Y>282</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3366,8 +3366,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">d23dd675-c246-4ada-87e6-f9b44b59d996</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>876</X>
-        <Y>472</Y>
+        <X>534</X>
+        <Y>288</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3375,8 +3375,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">a0737be6-8115-4f80-9814-71980d3bae68</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>92</X>
-        <Y>494</Y>
+        <X>56</X>
+        <Y>301</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
@@ -3384,8 +3384,8 @@
       <LocationData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Property.Location" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">7ad130d2-10fb-4a84-b6ca-53e5576c7da2</ModuleInstanceId>
         <ModuleTypeId xmlns="">3fb53423-dd2a-4719-b3e3-19aa6f062f62</ModuleTypeId>
-        <X>344</X>
-        <Y>515</Y>
+        <X>210</X>
+        <Y>314</Y>
         <Z>1</Z>
       </LocationData>
     </Module>
