@@ -3243,7 +3243,7 @@
             </a:Shape>
           </a:DisplayItem>
         </DisplayItems>
-        <Height>349</Height>
+        <Height>533</Height>
         <Left>0</Left>
         <SaveLocations>true</SaveLocations>
         <SetupHeight>988</SetupHeight>
@@ -3251,7 +3251,7 @@
         <SetupTop>-4</SetupTop>
         <SetupWidth>1288</SetupWidth>
         <Top>0</Top>
-        <Width>768</Width>
+        <Width>660</Width>
       </VixenPreviewData>
     </Module>
     <Module dataModelType="VixenModules.Property.Location.LocationData, Location" moduleType="3fb53423-dd2a-4719-b3e3-19aa6f062f62" moduleInstance="355e2101-44d6-4390-a2f2-01cbf818c50a">
