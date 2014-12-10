@@ -44,3 +44,4 @@ Please Check your settings/path.
 12/10/2014 16:48:11 [VixenModules.Preview.VixenPreview.VixenPreviewSetup3] VixenPreviewSetup3_Resize: Data is null. abandoning resize. (Thread ID: 1) 
 12/10/2014 16:48:58 [VixenModules.Preview.VixenPreview.VixenPreviewSetup3] VixenPreviewSetup3: access of null Data. (Thread ID: 1) 
 12/10/2014 16:48:58 [VixenModules.Preview.VixenPreview.VixenPreviewSetup3] VixenPreviewSetup3_Resize: Data is null. abandoning resize. (Thread ID: 1) 
+12/10/2014 17:10:15 [VixenModules.Preview.VixenPreview.GDIPreviewForm] VixenPreviewDisplay_Resize: Data is null. abandoning resize. (Thread ID: 9) 
