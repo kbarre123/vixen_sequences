@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimedSequenceData xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
+  <ModuleInstanceId xmlns="">a836daaf-6757-4628-a6ae-4f100babf8ef</ModuleInstanceId>
+  <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
+  <Length xmlns="">PT1M</Length>
+  <Version xmlns="">0</Version>
+  <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>871c43a0-a2b4-420e-8919-939bfdbcd800</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>0</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>b6f7bf41-615b-4664-a155-e0957dfedece</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>0</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>d13cefd0-9b70-44a3-9ed4-5bbb618e19c7</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>0</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>7e274a76-2ed7-448b-9cb6-14a0371401ed</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>ad4c7223-d48d-44de-96c9-8cb7a072c854</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>5a14e0f0-7570-4a85-830e-28a3e2ad7ba8</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>b01a7a77-65cb-429d-92d3-956bf98c587e</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>4434341d-7ff7-4697-9b45-511a490d6c21</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>668f2f64-f938-421d-b5f5-f69aba77381a</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0</d3p1:_b>
+        <d3p1:_g>0</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>245cc2ce-6fc2-46b9-be1a-7ff7806300f1</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>694eb644-c93f-462d-b83a-a19eebaca700</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>4f7e29e1-8293-446a-ba60-aef5c7b2b098</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>acd8c979-4306-48fd-ad14-9b0403904e60</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>0</d3p1:_g>
+        <d3p1:_r>0</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>553f3946-410f-47c4-8bd7-1abc7f743cee</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>0</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>7d40dcbb-c443-4594-946a-de91448ca20e</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>0</d3p1:_b>
+        <d3p1:_g>0</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>8468292f-34cc-435b-a836-b6dc58cd3879</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>ec0c987c-d3c2-4ecb-b1e4-119044f411a3</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>19b5aa9a-f13e-4b61-9668-8dfa42260ce4</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>aa70dee4-f179-41fe-a397-209fd6f28ee9</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+  </_dataModels>
+  <_effectNodeSurrogates xmlns="">
+    <EffectNodeSurrogate>
+      <InstanceId>871c43a0-a2b4-420e-8919-939bfdbcd800</InstanceId>
+      <StartTime>PT0S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>c2b59ab5-0fd2-459d-a0ea-6f90d5e09636</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>b6f7bf41-615b-4664-a155-e0957dfedece</InstanceId>
+      <StartTime>PT0.99S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>85c89d02-f97d-4446-a6c7-73775ff8449f</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>d13cefd0-9b70-44a3-9ed4-5bbb618e19c7</InstanceId>
+      <StartTime>PT2S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>38646e18-fbf1-434e-bb76-7c86e4f81b9b</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>7d40dcbb-c443-4594-946a-de91448ca20e</InstanceId>
+      <StartTime>PT2.981833S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>2f28890f-a218-43c6-8115-ef9e273803c8</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>7e274a76-2ed7-448b-9cb6-14a0371401ed</InstanceId>
+      <StartTime>PT4.043563S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>a74f7425-82fa-483f-9752-790923ab1ee9</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>ad4c7223-d48d-44de-96c9-8cb7a072c854</InstanceId>
+      <StartTime>PT5.053563S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>1416204f-0864-45b8-8212-b7727949d9fa</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>5a14e0f0-7570-4a85-830e-28a3e2ad7ba8</InstanceId>
+      <StartTime>PT6.043563S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>32f6afa7-e5a4-4270-94d9-3a28a837e2ae</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>b01a7a77-65cb-429d-92d3-956bf98c587e</InstanceId>
+      <StartTime>PT7.043563S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>6cc42dd4-866f-44a6-a4c9-cf7652aa8125</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>4434341d-7ff7-4697-9b45-511a490d6c21</InstanceId>
+      <StartTime>PT8.043563S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>c77d4ff3-bde5-49c4-9708-c8b0b4b0aa99</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>668f2f64-f938-421d-b5f5-f69aba77381a</InstanceId>
+      <StartTime>PT9.030865S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>9d409f95-309c-476f-9f83-4d8d56ad6f03</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>245cc2ce-6fc2-46b9-be1a-7ff7806300f1</InstanceId>
+      <StartTime>PT9.995469S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>31ae32fe-7baa-468b-8deb-27e7c6dc0eb2</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>694eb644-c93f-462d-b83a-a19eebaca700</InstanceId>
+      <StartTime>PT11.005469S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>c2f93637-418b-4e37-a2d4-20ee0e322daf</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>4f7e29e1-8293-446a-ba60-aef5c7b2b098</InstanceId>
+      <StartTime>PT12.005469S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>5f1bb345-8528-4593-a323-e6d6223f1182</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>acd8c979-4306-48fd-ad14-9b0403904e60</InstanceId>
+      <StartTime>PT13.049032S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>d453f689-c4e7-4751-8128-a67e56c2b1a0</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>553f3946-410f-47c4-8bd7-1abc7f743cee</InstanceId>
+      <StartTime>PT14.039032S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>91f40272-c48e-41e8-93cf-43b25e207c22</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>8468292f-34cc-435b-a836-b6dc58cd3879</InstanceId>
+      <StartTime>PT16.0062545S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>45d2e973-fc8a-45de-8af7-aa3ff13924ec</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>ec0c987c-d3c2-4ecb-b1e4-119044f411a3</InstanceId>
+      <StartTime>PT17.0189525S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>70fa9e87-8a9c-46d8-b6bd-01819fa7b521</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>19b5aa9a-f13e-4b61-9668-8dfa42260ce4</InstanceId>
+      <StartTime>PT18.00352S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>890162c4-bb9f-41cf-bacf-5cd698676036</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>aa70dee4-f179-41fe-a397-209fd6f28ee9</InstanceId>
+      <StartTime>PT20.0007855S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>de168c5f-00d4-4ebf-b63a-0e8a1b8f03af</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT1S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+  </_effectNodeSurrogates>
+  <_filterNodeSurrogates xmlns="" />
+  <_mediaSurrogates xmlns="" />
+  <_selectedTimingProviderSurrogate xmlns="">
+    <ProviderType i:nil="true" />
+    <SourceName i:nil="true" />
+  </_selectedTimingProviderSurrogate>
+  <MarkCollections />
+  <TimePerPixel>PT0.0281305S</TimePerPixel>
+</TimedSequenceData>
