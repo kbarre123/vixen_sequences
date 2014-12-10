@@ -127,3 +127,4 @@
 12/10/2014 16:47:21 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
 12/10/2014 16:47:21 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
 12/10/2014 16:47:21 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+12/10/2014 16:57:41 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: test 
