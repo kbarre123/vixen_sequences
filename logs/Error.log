@@ -9183,3 +9183,4 @@
    at Vixen.Sys.Output.OutputController.Update()
    at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
 12/10/2014 13:40:14 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Generic Serial experienced an error during execution and was shutdown. 
+12/10/2014 17:13:36 [VixenModules.Media.Audio.Audio] Media file does not exist: C:\Users\Pat\Music\10. Brenda Lee - Rockin' Around The Christmas Tree.mp3 
