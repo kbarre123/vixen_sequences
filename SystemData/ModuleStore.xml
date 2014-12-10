@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModuleStore version="1">
+  <ModuleData>
+    <Module dataModelType="VixenModules.SequenceType.Vixen2x.Vixen2xSequenceStaticData, Vixen2x" moduleType="92bbd2cb-b750-437f-8a88-49864d569ab4" moduleInstance="92bbd2cb-b750-437f-8a88-49864d569ab4">
+      <Vixen2xSequenceStaticData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.SequenceType.Vixen2x" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">92bbd2cb-b750-437f-8a88-49864d569ab4</ModuleInstanceId>
+        <ModuleTypeId xmlns="">92bbd2cb-b750-437f-8a88-49864d569ab4</ModuleTypeId>
+        <vixen2xMappings xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      </Vixen2xSequenceStaticData>
+    </Module>
+    <Module dataModelType="VixenModules.App.ColorGradients.ColorGradientLibraryStaticData, ColorGradients" moduleType="64f4ab26-3ed4-49a3-a004-23656ed0424a" moduleInstance="64f4ab26-3ed4-49a3-a004-23656ed0424a">
+      <ColorGradientLibraryStaticData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">64f4ab26-3ed4-49a3-a004-23656ed0424a</ModuleInstanceId>
+        <ModuleTypeId xmlns="">64f4ab26-3ed4-49a3-a004-23656ed0424a</ModuleTypeId>
+        <SelectorWindowBounds xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <a:height>0</a:height>
+          <a:width>0</a:width>
+          <a:x>0</a:x>
+          <a:y>0</a:y>
+        </SelectorWindowBounds>
+        <_library xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      </ColorGradientLibraryStaticData>
+    </Module>
+    <Module dataModelType="VixenModules.App.Curves.CurveLibraryStaticData, Curves" moduleType="4e258de2-7a75-4f0f-aa43-c8182e7f3400" moduleInstance="4e258de2-7a75-4f0f-aa43-c8182e7f3400">
+      <CurveLibraryStaticData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">4e258de2-7a75-4f0f-aa43-c8182e7f3400</ModuleInstanceId>
+        <ModuleTypeId xmlns="">4e258de2-7a75-4f0f-aa43-c8182e7f3400</ModuleTypeId>
+        <SelectorWindowBounds xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <a:height>0</a:height>
+          <a:width>0</a:width>
+          <a:x>0</a:x>
+          <a:y>0</a:y>
+        </SelectorWindowBounds>
+        <_library xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      </CurveLibraryStaticData>
+    </Module>
+    <Module dataModelType="VixenModules.App.LipSyncApp.LipSyncMapStaticData, LipSyncApp" moduleType="a475c535-73fa-4d31-a1bc-ed2b50ad21cf" moduleInstance="a475c535-73fa-4d31-a1bc-ed2b50ad21cf">
+      <LipSyncMapStaticData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.App.LipSyncApp" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">a475c535-73fa-4d31-a1bc-ed2b50ad21cf</ModuleInstanceId>
+        <ModuleTypeId xmlns="">a475c535-73fa-4d31-a1bc-ed2b50ad21cf</ModuleTypeId>
+        <SelectorWindowBounds xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <a:height>348</a:height>
+          <a:width>574</a:width>
+          <a:x>353</a:x>
+          <a:y>318</a:y>
+        </SelectorWindowBounds>
+        <_library xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+          <a:KeyValueOfstringLipSyncMapDataiatCCBjB>
+            <a:Key>New Map</a:Key>
+            <a:Value>
+              <ModuleInstanceId xmlns="">00000000-0000-0000-0000-000000000000</ModuleInstanceId>
+              <ModuleTypeId xmlns="">00000000-0000-0000-0000-000000000000</ModuleTypeId>
+              <IsCurrentLibraryMapping>false</IsCurrentLibraryMapping>
+              <IsDefaultMapping>false</IsDefaultMapping>
+              <IsMatrix>false</IsMatrix>
+              <LibraryReferenceName>New Map</LibraryReferenceName>
+              <MapItems>
+                <LipSyncMapItem>
+                  <ElementColor xmlns:b="http://schemas.datacontract.org/2004/07/System.Drawing">
+                    <b:knownColor>0</b:knownColor>
+                    <b:name i:nil="true" />
+                    <b:state>0</b:state>
+                    <b:value>0</b:value>
+                  </ElementColor>
+                  <ElementColors />
+                  <ElementGuid>00000000-0000-0000-0000-000000000000</ElementGuid>
+                  <PhonemeList />
+                  <StringNum>0</StringNum>
+                  <_stringName i:nil="true" />
+                </LipSyncMapItem>
+              </MapItems>
+              <MatrixPixelsPerString>1</MatrixPixelsPerString>
+              <MatrixStringCount>1</MatrixStringCount>
+              <StartNode />
+              <StringCount>0</StringCount>
+              <StringsAreRows>false</StringsAreRows>
+              <ZoomLevel>1</ZoomLevel>
+            </a:Value>
+          </a:KeyValueOfstringLipSyncMapDataiatCCBjB>
+        </_library>
+      </LipSyncMapStaticData>
+    </Module>
+    <Module dataModelType="VixenModules.App.Shows.ShowsData, Shows" moduleType="67a6dfdb-ddec-4a5f-a158-129421e2366f" moduleInstance="67a6dfdb-ddec-4a5f-a158-129421e2366f">
+      <ShowsData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.App.Shows" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">67a6dfdb-ddec-4a5f-a158-129421e2366f</ModuleInstanceId>
+        <ModuleTypeId xmlns="">67a6dfdb-ddec-4a5f-a158-129421e2366f</ModuleTypeId>
+        <Shows />
+      </ShowsData>
+    </Module>
+    <Module dataModelType="VixenModules.App.SuperScheduler.SuperSchedulerData, SuperScheduler" moduleType="985315e8-2b83-4d1a-89d1-58bfea7835a0" moduleInstance="985315e8-2b83-4d1a-89d1-58bfea7835a0">
+      <SuperSchedulerData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.App.SuperScheduler" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">985315e8-2b83-4d1a-89d1-58bfea7835a0</ModuleInstanceId>
+        <ModuleTypeId xmlns="">985315e8-2b83-4d1a-89d1-58bfea7835a0</ModuleTypeId>
+        <CheckIntervalInSeconds>1</CheckIntervalInSeconds>
+        <IsEnabled>false</IsEnabled>
+        <Items />
+        <StatusForm_Position xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
+          <a:x>0</a:x>
+          <a:y>0</a:y>
+        </StatusForm_Position>
+      </SuperSchedulerData>
+    </Module>
+    <Module dataModelType="VersionControl.Data, VersionControl" moduleType="c2d86eac-618a-4066-b6e2-1e259c2959f6" moduleInstance="c2d86eac-618a-4066-b6e2-1e259c2959f6">
+      <Data xmlns="http://schemas.datacontract.org/2004/07/VersionControl" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">c2d86eac-618a-4066-b6e2-1e259c2959f6</ModuleInstanceId>
+        <ModuleTypeId xmlns="">c2d86eac-618a-4066-b6e2-1e259c2959f6</ModuleTypeId>
+        <IsEnabled>false</IsEnabled>
+      </Data>
+    </Module>
+    <Module dataModelType="VixenModules.App.VirtualEffect.VirtualEffectLibraryData, VirtualEffect" moduleType="cefa7ece-b0cd-42f3-ad3f-42e38a6eead5" moduleInstance="cefa7ece-b0cd-42f3-ad3f-42e38a6eead5">
+      <VirtualEffectLibraryData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.App.VirtualEffect" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">cefa7ece-b0cd-42f3-ad3f-42e38a6eead5</ModuleInstanceId>
+        <ModuleTypeId xmlns="">cefa7ece-b0cd-42f3-ad3f-42e38a6eead5</ModuleTypeId>
+        <Library xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      </VirtualEffectLibraryData>
+    </Module>
+    <Module dataModelType="VixenModules.App.WebServer.Data, WebServer" moduleType="8ac1cdf9-8d57-43b6-81de-93003ed2f907" moduleInstance="8ac1cdf9-8d57-43b6-81de-93003ed2f907">
+      <Data xmlns="http://schemas.datacontract.org/2004/07/VixenModules.App.WebServer" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">8ac1cdf9-8d57-43b6-81de-93003ed2f907</ModuleInstanceId>
+        <ModuleTypeId xmlns="">8ac1cdf9-8d57-43b6-81de-93003ed2f907</ModuleTypeId>
+        <HttpPort>8888</HttpPort>
+        <IsEnabled>true</IsEnabled>
+      </Data>
+    </Module>
+  </ModuleData>
+  <ModuleData>
+    <Module dataModelType="VixenModules.Output.GenericSerial.Data, GenericSerial" moduleType="d22c9233-16e9-4008-a215-e577f78a7a2e" moduleInstance="322ff02f-648e-43f0-bbee-95805bfb616d">
+      <Data xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Output.GenericSerial" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">322ff02f-648e-43f0-bbee-95805bfb616d</ModuleInstanceId>
+        <ModuleTypeId xmlns="">d22c9233-16e9-4008-a215-e577f78a7a2e</ModuleTypeId>
+        <BaudRate>57600</BaudRate>
+        <DataBits>8</DataBits>
+        <Footer />
+        <Header />
+        <Parity>None</Parity>
+        <PortName>COM4</PortName>
+        <StopBits>One</StopBits>
+      </Data>
+    </Module>
+    <Module dataModelType="VixenModules.Preview.VixenPreview.VixenPreviewData, VixenPreview" moduleType="f43c31bc-cfcd-4dbc-adb7-d349c9ec623d" moduleInstance="df78a441-d306-405f-8ad7-8f706615db8a">
+      <VixenPreviewData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Preview.VixenPreview" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">df78a441-d306-405f-8ad7-8f706615db8a</ModuleInstanceId>
+        <ModuleTypeId xmlns="">f43c31bc-cfcd-4dbc-adb7-d349c9ec623d</ModuleTypeId>
+        <BackgroundAlpha>255</BackgroundAlpha>
+        <BackgroundFileName>C:\Users\kc\Documents\Vixen 3\Module Data Files\VixenDisplayPreview\e9f24962-5f09-44b2-9e8e-df2a84d3df6c.jpg</BackgroundFileName>
+        <DisplayItems xmlns:a="http://schemas.datacontract.org/2004/07/VixenModules.Preview.VixenPreview.Shapes" />
+        <Height>349</Height>
+        <Left>0</Left>
+        <SaveLocations>true</SaveLocations>
+        <SetupHeight>988</SetupHeight>
+        <SetupLeft>-4</SetupLeft>
+        <SetupTop>-4</SetupTop>
+        <SetupWidth>1288</SetupWidth>
+        <Top>0</Top>
+        <Width>768</Width>
+      </VixenPreviewData>
+    </Module>
+    <Module dataModelType="VixenModules.Preview.VixenPreview.VixenPreviewData, VixenPreview" moduleType="f43c31bc-cfcd-4dbc-adb7-d349c9ec623d" moduleInstance="8a33877f-2f48-437b-8d71-9e9bb3c85c5d">
+      <VixenPreviewData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Preview.VixenPreview" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+        <ModuleInstanceId xmlns="">8a33877f-2f48-437b-8d71-9e9bb3c85c5d</ModuleInstanceId>
+        <ModuleTypeId xmlns="">f43c31bc-cfcd-4dbc-adb7-d349c9ec623d</ModuleTypeId>
+        <BackgroundAlpha>255</BackgroundAlpha>
+        <BackgroundFileName>C:\Users\kc\Documents\Vixen 3\Module Data Files\VixenDisplayPreview\6cc5f234-1a72-4e3d-b7cb-331a8997c8f0.JPG</BackgroundFileName>
+        <DisplayItems xmlns:a="http://schemas.datacontract.org/2004/07/VixenModules.Preview.VixenPreview.Shapes" />
+        <Height>349</Height>
+        <Left>0</Left>
+        <SaveLocations>true</SaveLocations>
+        <SetupHeight>988</SetupHeight>
+        <SetupLeft>-4</SetupLeft>
+        <SetupTop>-4</SetupTop>
+        <SetupWidth>1288</SetupWidth>
+        <Top>0</Top>
+        <Width>768</Width>
+      </VixenPreviewData>
+    </Module>
+  </ModuleData>
+</ModuleStore>
