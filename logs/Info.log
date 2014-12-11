@@ -184,3 +184,6 @@
 12/10/2014 18:42:48 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
 12/10/2014 18:46:21 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
 12/11/2014 11:13:40 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+12/11/2014 11:13:43 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/11/2014 11:13:44 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/11/2014 11:13:44 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
