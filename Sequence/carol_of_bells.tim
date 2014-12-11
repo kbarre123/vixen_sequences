@@ -2542,16 +2542,6 @@
       <d2p1:level>1</d2p1:level>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
-      <ModuleInstanceId>c5a3e757-506f-4ad6-8d26-b9a0f2470445</ModuleInstanceId>
-      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
-      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-        <d3p1:_b>1</d3p1:_b>
-        <d3p1:_g>1</d3p1:_g>
-        <d3p1:_r>1</d3p1:_r>
-      </d2p1:color>
-      <d2p1:level>1</d2p1:level>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
       <ModuleInstanceId>73a268ae-f7ae-450a-b727-121b38be2b5d</ModuleInstanceId>
       <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
       <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
@@ -2743,6 +2733,16 @@
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
       <ModuleInstanceId>f7a1c46a-881a-47d8-81c3-af6937ae87d4</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>8f682e1a-b187-4777-a9ab-9df826774d64</ModuleInstanceId>
       <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
       <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
         <d3p1:_b>1</d3p1:_b>
@@ -5625,14 +5625,14 @@
       <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>c5a3e757-506f-4ad6-8d26-b9a0f2470445</InstanceId>
-      <StartTime>PT1M15.0087702S</StartTime>
+      <InstanceId>8f682e1a-b187-4777-a9ab-9df826774d64</InstanceId>
+      <StartTime>PT1M15.033S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>31ae32fe-7baa-468b-8deb-27e7c6dc0eb2</NodeId>
+          <NodeId>afdd2b31-196c-4df9-84b4-1961d3b1f50b</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT7.6051836S</TimeSpan>
+      <TimeSpan>PT7.605S</TimeSpan>
       <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
