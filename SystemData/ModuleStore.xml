@@ -84,7 +84,59 @@
       <ShowsData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.App.Shows" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">67a6dfdb-ddec-4a5f-a158-129421e2366f</ModuleInstanceId>
         <ModuleTypeId xmlns="">67a6dfdb-ddec-4a5f-a158-129421e2366f</ModuleTypeId>
-        <Shows />
+        <Shows>
+          <Show>
+            <ID>8feed932-e453-44c4-98f5-5d8651ce4550</ID>
+            <Items>
+              <ShowItem>
+                <Action>Sequence</Action>
+                <ItemOrder>0</ItemOrder>
+                <ItemType>Startup</ItemType>
+                <Launch_CommandLine i:nil="true" />
+                <Launch_ProgramName i:nil="true" />
+                <Launch_ShowCommandWindow>false</Launch_ShowCommandWindow>
+                <Launch_WaitForExit>false</Launch_WaitForExit>
+                <Name>Run sequence: test.tim</Name>
+                <Pause_Seconds>0</Pause_Seconds>
+                <Sequence_FileName>C:\Users\kc\Documents\Vixen 3\Sequence\test.tim</Sequence_FileName>
+                <Show_ShowID>00000000-0000-0000-0000-000000000000</Show_ShowID>
+                <Show_StopCurrentShow>false</Show_StopCurrentShow>
+                <Website_URL i:nil="true" />
+              </ShowItem>
+              <ShowItem>
+                <Action>Sequence</Action>
+                <ItemOrder>1</ItemOrder>
+                <ItemType>Startup</ItemType>
+                <Launch_CommandLine i:nil="true" />
+                <Launch_ProgramName i:nil="true" />
+                <Launch_ShowCommandWindow>false</Launch_ShowCommandWindow>
+                <Launch_WaitForExit>false</Launch_WaitForExit>
+                <Name>Run sequence: carol_of_bells.tim</Name>
+                <Pause_Seconds>0</Pause_Seconds>
+                <Sequence_FileName>C:\Users\kc\Documents\Vixen 3\Sequence\carol_of_bells.tim</Sequence_FileName>
+                <Show_ShowID>00000000-0000-0000-0000-000000000000</Show_ShowID>
+                <Show_StopCurrentShow>false</Show_StopCurrentShow>
+                <Website_URL i:nil="true" />
+              </ShowItem>
+              <ShowItem>
+                <Action>Sequence</Action>
+                <ItemOrder>2</ItemOrder>
+                <ItemType>Startup</ItemType>
+                <Launch_CommandLine i:nil="true" />
+                <Launch_ProgramName i:nil="true" />
+                <Launch_ShowCommandWindow>false</Launch_ShowCommandWindow>
+                <Launch_WaitForExit>false</Launch_WaitForExit>
+                <Name>Run sequence: rockin_around_the_xmas_tree.tim</Name>
+                <Pause_Seconds>0</Pause_Seconds>
+                <Sequence_FileName>C:\Users\kc\Documents\Vixen 3\Sequence\rockin_around_the_xmas_tree.tim</Sequence_FileName>
+                <Show_ShowID>00000000-0000-0000-0000-000000000000</Show_ShowID>
+                <Show_StopCurrentShow>false</Show_StopCurrentShow>
+                <Website_URL i:nil="true" />
+              </ShowItem>
+            </Items>
+            <Name>Xmas Show</Name>
+          </Show>
+        </Shows>
       </ShowsData>
     </Module>
     <Module dataModelType="VixenModules.App.SuperScheduler.SuperSchedulerData, SuperScheduler" moduleType="985315e8-2b83-4d1a-89d1-58bfea7835a0" moduleInstance="985315e8-2b83-4d1a-89d1-58bfea7835a0">
@@ -93,7 +145,23 @@
         <ModuleTypeId xmlns="">985315e8-2b83-4d1a-89d1-58bfea7835a0</ModuleTypeId>
         <CheckIntervalInSeconds>1</CheckIntervalInSeconds>
         <IsEnabled>false</IsEnabled>
-        <Items />
+        <Items>
+          <ScheduleItem>
+            <Enabled>true</Enabled>
+            <EndDate>2014-12-11T00:00:00</EndDate>
+            <EndTime>2014-12-11T17:00:00</EndTime>
+            <Friday>true</Friday>
+            <Monday>true</Monday>
+            <Saturday>true</Saturday>
+            <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
+            <StartDate>2014-12-11T00:00:00</StartDate>
+            <StartTime>2014-12-11T16:48:00</StartTime>
+            <Sunday>true</Sunday>
+            <Thursday>true</Thursday>
+            <Tuesday>true</Tuesday>
+            <Wednesday>true</Wednesday>
+          </ScheduleItem>
+        </Items>
         <StatusForm_Position xmlns:a="http://schemas.datacontract.org/2004/07/System.Drawing">
           <a:x>0</a:x>
           <a:y>0</a:y>
@@ -119,7 +187,7 @@
         <ModuleInstanceId xmlns="">8ac1cdf9-8d57-43b6-81de-93003ed2f907</ModuleInstanceId>
         <ModuleTypeId xmlns="">8ac1cdf9-8d57-43b6-81de-93003ed2f907</ModuleTypeId>
         <HttpPort>8888</HttpPort>
-        <IsEnabled>false</IsEnabled>
+        <IsEnabled>true</IsEnabled>
       </Data>
     </Module>
     <Module dataModelType="VixenModules.Property.Location.LocationData, Location" moduleType="3fb53423-dd2a-4719-b3e3-19aa6f062f62" moduleInstance="3fb53423-dd2a-4719-b3e3-19aa6f062f62">
