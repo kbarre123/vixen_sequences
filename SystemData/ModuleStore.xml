@@ -187,7 +187,7 @@
         <ModuleInstanceId xmlns="">8ac1cdf9-8d57-43b6-81de-93003ed2f907</ModuleInstanceId>
         <ModuleTypeId xmlns="">8ac1cdf9-8d57-43b6-81de-93003ed2f907</ModuleTypeId>
         <HttpPort>8888</HttpPort>
-        <IsEnabled>true</IsEnabled>
+        <IsEnabled>false</IsEnabled>
       </Data>
     </Module>
     <Module dataModelType="VixenModules.Property.Location.LocationData, Location" moduleType="3fb53423-dd2a-4719-b3e3-19aa6f062f62" moduleInstance="3fb53423-dd2a-4719-b3e3-19aa6f062f62">
