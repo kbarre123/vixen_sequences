@@ -23,3 +23,6 @@
 12/11/2014 16:49:02 [Scheduler] ExecuteAction: Run sequence: carol_of_bells.tim 
 12/11/2014 16:49:02 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/11/2014 16:49:02 [Scheduler] (Xmas Show) Starting action: Run sequence: carol_of_bells.tim 
+12/11/2014 16:49:35 [Scheduler] (Xmas Show) Stopping action: Run sequence: carol_of_bells.tim 
+12/11/2014 16:49:36 [Scheduler] (Xmas Show) Show stopped immediately 
+12/11/2014 16:49:36 [Scheduler] (Xmas Show) Startup action complete: Run sequence: carol_of_bells.tim 
