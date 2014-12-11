@@ -207,3 +207,13 @@
 12/11/2014 16:47:02 [Scheduler] ExecuteAction: Run sequence: carol_of_bells.tim 
 12/11/2014 16:47:02 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/11/2014 16:47:02 [Scheduler] (Xmas Show) Starting action: Run sequence: carol_of_bells.tim 
+12/11/2014 16:47:12 [Scheduler] (Xmas Show) Stopping action: Run sequence: carol_of_bells.tim 
+12/11/2014 16:47:12 [Scheduler] (Xmas Show) Show stopped immediately 
+12/11/2014 16:47:12 [Scheduler] (Xmas Show) Startup action complete: Run sequence: carol_of_bells.tim 
+12/11/2014 16:48:01 [Scheduler] (Xmas Show) Show started 
+12/11/2014 16:48:01 [Scheduler] (Xmas Show) Pre-processing: Run sequence: test.tim 
+12/11/2014 16:48:01 [Scheduler] (Xmas Show) Pre-processing: Run sequence: carol_of_bells.tim 
+12/11/2014 16:48:02 [Scheduler] (Xmas Show) Pre-processing: Run sequence: rockin_around_the_xmas_tree.tim 
+12/11/2014 16:48:02 [Scheduler] ExecuteAction: Run sequence: test.tim 
+12/11/2014 16:48:02 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/11/2014 16:48:02 [Scheduler] (Xmas Show) Starting action: Run sequence: test.tim 
