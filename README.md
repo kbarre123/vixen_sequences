@@ -40,3 +40,9 @@ to grab the following info from the meta-data of the files. Happy hunting!
   * Artist: Trans-Siberian Orchestra
   * Album: The Lost Christmas Eve
   * md5sum: 9fce10f01c1091a79e571b12f5b6a9e4  wizards_in_winter.mp3
+
+### Parting Thoughts
+If you decide to use one of my sequences, I just ask that you credit me where possible and let me know because I'd
+think it was cool.
+
+##Happy Holidays!!!
