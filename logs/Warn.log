@@ -66,3 +66,8 @@ Please Check your settings/path.
 12/11/2014 17:47:56 [VixenModules.Preview.VixenPreview.GDIPreviewForm] VixenPreviewDisplay_Resize: Data is null. abandoning resize. (Thread ID: 16) 
 12/12/2014 12:12:46 [VixenModules.Preview.VixenPreview.GDIPreviewForm] VixenPreviewDisplay_Resize: Data is null. abandoning resize. (Thread ID: 17) 
 12/12/2014 12:20:45 [VixenModules.Preview.VixenPreview.GDIPreviewForm] VixenPreviewDisplay_Resize: Data is null. abandoning resize. (Thread ID: 10) 
+12/12/2014 15:03:49 [VixenModules.Editor.TimedSequenceEditor.TimedSequenceEditorForm] Audio file not found on the path:
+
+ C:\Users\kc\Documents\vixen\music\rockin_around_the_xmas_tree.mp3
+
+Please Check your settings/path. 

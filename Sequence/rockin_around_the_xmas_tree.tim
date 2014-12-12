@@ -5,12 +5,6 @@
   <Length xmlns="">PT2M3.088S</Length>
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Media.Audio" i:type="d2p1:AudioData">
-      <ModuleInstanceId>7f38982b-fe22-4067-afda-780781dd65f1</ModuleInstanceId>
-      <ModuleTypeId>fe460392-3fab-4c63-99dd-d76c48354150</ModuleTypeId>
-      <d2p1:FilePath>C:\Users\kc\Documents\vixen\music\rockin_around_the_xmas_tree.mp3</d2p1:FilePath>
-      <d2p1:RelativeAudioPath>..\Users\kc\Documents\vixen\music\rockin_around_the_xmas_tree.mp3</d2p1:RelativeAudioPath>
-    </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
       <ModuleInstanceId>857d9dde-1f0a-4c3c-9f77-27e7ac279c17</ModuleInstanceId>
       <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
@@ -8500,6 +8494,12 @@
         <d3p1:_r>1</d3p1:_r>
       </d2p1:color>
       <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Media.Audio" i:type="d2p1:AudioData">
+      <ModuleInstanceId>369df04f-ed4c-416c-9e2b-04685e4fbfd9</ModuleInstanceId>
+      <ModuleTypeId>fe460392-3fab-4c63-99dd-d76c48354150</ModuleTypeId>
+      <d2p1:FilePath>C:\Users\kc\Documents\vixen_setup\music\rockin_around_the_xmas_tree.mp3</d2p1:FilePath>
+      <d2p1:RelativeAudioPath>..\Users\kc\Documents\vixen_setup\music\rockin_around_the_xmas_tree.mp3</d2p1:RelativeAudioPath>
     </d1p1:anyType>
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
@@ -17846,14 +17846,14 @@
   <_filterNodeSurrogates xmlns="" />
   <_mediaSurrogates xmlns="">
     <MediaSurrogate>
-      <FilePath>C:\Users\kc\Documents\vixen\music\rockin_around_the_xmas_tree.mp3</FilePath>
-      <InstanceId>7f38982b-fe22-4067-afda-780781dd65f1</InstanceId>
+      <FilePath>C:\Users\kc\Documents\vixen_setup\music\rockin_around_the_xmas_tree.mp3</FilePath>
+      <InstanceId>369df04f-ed4c-416c-9e2b-04685e4fbfd9</InstanceId>
       <TypeId>fe460392-3fab-4c63-99dd-d76c48354150</TypeId>
     </MediaSurrogate>
   </_mediaSurrogates>
   <_selectedTimingProviderSurrogate xmlns="">
     <ProviderType>Media</ProviderType>
-    <SourceName>C:\Users\kc\Documents\vixen\music\rockin_around_the_xmas_tree.mp3</SourceName>
+    <SourceName>C:\Users\kc\Documents\vixen_setup\music\rockin_around_the_xmas_tree.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <MarkCollections>
     <MarkCollection>
