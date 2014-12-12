@@ -6,7 +6,7 @@
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Media.Audio" i:type="d2p1:AudioData">
-      <ModuleInstanceId>50fc4a61-cf04-43bc-8db8-c19f5543507a</ModuleInstanceId>
+      <ModuleInstanceId>cd91988b-e6d0-4975-afba-c7e83a38345b</ModuleInstanceId>
       <ModuleTypeId>fe460392-3fab-4c63-99dd-d76c48354150</ModuleTypeId>
       <d2p1:FilePath>C:\Users\kc\Documents\vixen\music\wizards_in_winter.mp3</d2p1:FilePath>
       <d2p1:RelativeAudioPath>..\Users\kc\Documents\vixen\music\wizards_in_winter.mp3</d2p1:RelativeAudioPath>
@@ -17,7 +17,7 @@
   <_mediaSurrogates xmlns="">
     <MediaSurrogate>
       <FilePath>C:\Users\kc\Documents\vixen\music\wizards_in_winter.mp3</FilePath>
-      <InstanceId>50fc4a61-cf04-43bc-8db8-c19f5543507a</InstanceId>
+      <InstanceId>cd91988b-e6d0-4975-afba-c7e83a38345b</InstanceId>
       <TypeId>fe460392-3fab-4c63-99dd-d76c48354150</TypeId>
     </MediaSurrogate>
   </_mediaSurrogates>
