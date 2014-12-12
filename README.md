@@ -17,3 +17,9 @@ Here's the finished product:
 ![My image](https://github.com/kbarre123/kbarre123.github.io/blob/master/images/arduino_vixen_1.JPG)
 ![My image](https://github.com/kbarre123/kbarre123.github.io/blob/master/images/arduino_vixen_2.JPG)
 ![My image](https://github.com/kbarre123/kbarre123.github.io/blob/master/images/arduino_vixen_3.JPG)
+
+### Music
+Here's the md5sums for the songs used in each of my sequences in case you want to find the exact one.
+
+* carol_of_bells.tim
+  * asd;ljkfasd;ljf
