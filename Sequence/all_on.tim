@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimedSequenceData xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
+  <ModuleInstanceId xmlns="">60690118-4172-4aec-85d8-271d4265b683</ModuleInstanceId>
+  <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
+  <Length xmlns="">PT1M</Length>
+  <Version xmlns="">0</Version>
+  <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
+      <ModuleInstanceId>7f0077cf-ef05-46e3-bf4a-d3f47a223f91</ModuleInstanceId>
+      <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
+      <d2p1:color xmlns:d3p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+        <d3p1:_b>1</d3p1:_b>
+        <d3p1:_g>1</d3p1:_g>
+        <d3p1:_r>1</d3p1:_r>
+      </d2p1:color>
+      <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+  </_dataModels>
+  <_effectNodeSurrogates xmlns="">
+    <EffectNodeSurrogate>
+      <InstanceId>7f0077cf-ef05-46e3-bf4a-d3f47a223f91</InstanceId>
+      <StartTime>PT0S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>de168c5f-00d4-4ebf-b63a-0e8a1b8f03af</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT5.02S</TimeSpan>
+      <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
+    </EffectNodeSurrogate>
+  </_effectNodeSurrogates>
+  <_filterNodeSurrogates xmlns="" />
+  <_mediaSurrogates xmlns="" />
+  <_selectedTimingProviderSurrogate xmlns="">
+    <ProviderType i:nil="true" />
+    <SourceName i:nil="true" />
+  </_selectedTimingProviderSurrogate>
+  <MarkCollections />
+  <TimePerPixel>-P10675199DT2H48M5.4775808S</TimePerPixel>
+</TimedSequenceData>

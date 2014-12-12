@@ -259,3 +259,6 @@
 12/11/2014 18:01:04 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
 12/11/2014 18:01:07 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
 12/11/2014 19:23:13 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+12/11/2014 19:23:38 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/11/2014 19:23:39 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/11/2014 19:23:39 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
