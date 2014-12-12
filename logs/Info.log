@@ -266,3 +266,13 @@
 12/11/2014 19:48:09 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
 12/11/2014 19:48:10 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
 12/11/2014 19:48:10 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+12/11/2014 20:12:56 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/11/2014 20:17:47 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/11/2014 20:19:23 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/11/2014 20:22:45 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/11/2014 20:25:02 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/11/2014 20:27:21 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+12/11/2014 20:27:21 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+12/11/2014 20:27:22 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
+12/11/2014 20:27:24 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
+12/12/2014 12:11:08 [Vixen.Sys.VixenSystem] Vixen System starting up... 
