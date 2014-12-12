@@ -149,13 +149,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2014-12-11T00:00:00</EndDate>
-            <EndTime>2014-12-11T17:00:00</EndTime>
+            <EndTime>2014-12-12T17:00:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-11T00:00:00</StartDate>
-            <StartTime>2014-12-11T16:48:00</StartTime>
+            <StartTime>2014-12-12T16:48:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
@@ -187,7 +187,7 @@
         <ModuleInstanceId xmlns="">8ac1cdf9-8d57-43b6-81de-93003ed2f907</ModuleInstanceId>
         <ModuleTypeId xmlns="">8ac1cdf9-8d57-43b6-81de-93003ed2f907</ModuleTypeId>
         <HttpPort>8888</HttpPort>
-        <IsEnabled>true</IsEnabled>
+        <IsEnabled>false</IsEnabled>
       </Data>
     </Module>
     <Module dataModelType="VixenModules.Property.Location.LocationData, Location" moduleType="3fb53423-dd2a-4719-b3e3-19aa6f062f62" moduleInstance="3fb53423-dd2a-4719-b3e3-19aa6f062f62">
