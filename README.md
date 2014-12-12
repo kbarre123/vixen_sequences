@@ -1,7 +1,7 @@
 vixen_sequences
 ===============
 
-Sequences from the "Vixen 3" program folder tracked by the software version control.
+My sequences from the "Vixen 3" program folder as by the software's version control.
 
 ### Hardware
 I'm using an Arduino Uno R3 connected to a PC (Windows 7) via USB. I'm interfacing Vixen 3.1u2 (build #66) via the
@@ -19,7 +19,24 @@ Here's the finished product:
 ![My image](https://github.com/kbarre123/kbarre123.github.io/blob/master/images/arduino_vixen_3.JPG)
 
 ### Music
-Here's the md5sums for the songs used in each of my sequences in case you want to find the exact one.
+Here's the info and md5sums for the songs used in each of my sequences in case you want to find the exact one. I
+had to rename my files because the original names had spaces in them and I'm anal like that. Luckily, I was able
+to grab the following info from the meta-data of the files. Happy hunting!
 
 * carol_of_bells.tim
-  * asd;ljkfasd;ljf
+  * Title: Carol Of The Bells
+  * Artist: John Williams
+  * Album: Home Alone
+  * md5sum: ca59ac7ada3405cf72e856409568f30a  carol_of_the_bells.wav
+
+* rocking_around_the_xmas_tree.tim
+  * Title: Rockin' Around the Christmas Tree
+  * Artist: Brenda Lee
+  * Album: Now That's What I call Christmas/Disc 2 2013
+  * md5sum: 0a91139b3f96c21f5050b56a35b618fc  rockin_around_the_xmas_tree.mp3
+ 
+* wizards_in_winter.tim
+  * Title: Wizards In Winter
+  * Artist: Trans-Siberian Orchestra
+  * Album: The Lost Christmas Eve
+  * md5sum: 9fce10f01c1091a79e571b12f5b6a9e4  wizards_in_winter.mp3
