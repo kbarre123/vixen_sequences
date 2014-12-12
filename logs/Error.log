@@ -9424,3 +9424,15 @@ Parameter name: path
    at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
    at GitSharp.Repository.Commit(String message)
    at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/12/2014 15:04:48 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/12/2014 15:04:52 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
