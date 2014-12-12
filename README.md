@@ -1,7 +1,8 @@
 vixen_sequences
 ===============
 
-My sequences from the "Vixen 3" program folder as by the software's version control.
+My sequences from the "Vixen 3" program folder as by the software's version control. Admitedly, they're quite
+basic but I enjoy the 100% DIY factor as opposed to buying a fancy controller.
 
 ### Hardware
 I'm using an Arduino Uno R3 connected to a PC (Windows 7) via USB. I'm interfacing Vixen 3.1u2 (build #66) via the
