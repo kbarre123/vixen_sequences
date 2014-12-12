@@ -15,12 +15,6 @@
       </d2p1:color>
       <d2p1:level>1</d2p1:level>
     </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Media.Audio" i:type="d2p1:AudioData">
-      <ModuleInstanceId>477678e1-a840-498f-8f91-dc8095992d59</ModuleInstanceId>
-      <ModuleTypeId>fe460392-3fab-4c63-99dd-d76c48354150</ModuleTypeId>
-      <d2p1:FilePath>C:\Users\kc\Documents\vixen\music\carol_of_the_bells.wav</d2p1:FilePath>
-      <d2p1:RelativeAudioPath>..\Users\kc\Documents\vixen\music\carol_of_the_bells.wav</d2p1:RelativeAudioPath>
-    </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
       <ModuleInstanceId>77c536f2-d379-4d2c-9cb4-0d61cd7b4e8d</ModuleInstanceId>
       <ModuleTypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</ModuleTypeId>
@@ -2750,6 +2744,12 @@
         <d3p1:_r>1</d3p1:_r>
       </d2p1:color>
       <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Media.Audio" i:type="d2p1:AudioData">
+      <ModuleInstanceId>af8e6fdf-4ea2-4190-8168-6c8354e3ac8a</ModuleInstanceId>
+      <ModuleTypeId>fe460392-3fab-4c63-99dd-d76c48354150</ModuleTypeId>
+      <d2p1:FilePath>C:\Users\kc\Documents\vixen_setup\music\carol_of_the_bells.wav</d2p1:FilePath>
+      <d2p1:RelativeAudioPath>..\Users\kc\Documents\vixen_setup\music\carol_of_the_bells.wav</d2p1:RelativeAudioPath>
     </d1p1:anyType>
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
@@ -5771,14 +5771,14 @@
   <_filterNodeSurrogates xmlns="" />
   <_mediaSurrogates xmlns="">
     <MediaSurrogate>
-      <FilePath>C:\Users\kc\Documents\vixen\music\carol_of_the_bells.wav</FilePath>
-      <InstanceId>477678e1-a840-498f-8f91-dc8095992d59</InstanceId>
+      <FilePath>C:\Users\kc\Documents\vixen_setup\music\carol_of_the_bells.wav</FilePath>
+      <InstanceId>af8e6fdf-4ea2-4190-8168-6c8354e3ac8a</InstanceId>
       <TypeId>fe460392-3fab-4c63-99dd-d76c48354150</TypeId>
     </MediaSurrogate>
   </_mediaSurrogates>
   <_selectedTimingProviderSurrogate xmlns="">
     <ProviderType>Media</ProviderType>
-    <SourceName>C:\Users\kc\Documents\vixen\music\carol_of_the_bells.wav</SourceName>
+    <SourceName>C:\Users\kc\Documents\vixen_setup\music\carol_of_the_bells.wav</SourceName>
   </_selectedTimingProviderSurrogate>
   <MarkCollections>
     <MarkCollection>
