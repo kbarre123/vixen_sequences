@@ -128,3 +128,11 @@
    at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
    at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
    at System.Threading.ThreadHelper.ThreadStart()
+12/11/2014 19:41:21 [VixenApplication.Program] An application error occurred. Please contact the Vixen Dev Team with the following information:
+
+ System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   at BaseSequence.SequenceExecutor._loopPlay()
+   at BaseSequence.SequenceExecutor.<_CheckForNaturalEnd>b__5(Object x)    at System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   at BaseSequence.SequenceExecutor._loopPlay()
+   at BaseSequence.SequenceExecutor.<_CheckForNaturalEnd>b__5(Object x)
