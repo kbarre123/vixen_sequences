@@ -342,7 +342,6 @@
     <Patch componentId="c31f9121-6936-429c-9629-e0772aec1de0" sourceId="a1f77871-59d7-4d3d-8ae5-16da604fa384" output="0" />
   </Patches>
   <DisabledDevices>
-    <Device id="32c23ef7-75a8-4b9b-9a49-77af6cd6f0ec" />
     <Device id="80a82557-b168-4a90-8206-130253f74410" />
   </DisabledDevices>
 </SystemConfig>
