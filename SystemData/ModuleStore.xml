@@ -149,13 +149,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2014-12-11T00:00:00</EndDate>
-            <EndTime>2014-12-12T17:00:00</EndTime>
+            <EndTime>2014-12-13T17:00:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-11T00:00:00</StartDate>
-            <StartTime>2014-12-12T16:48:00</StartTime>
+            <StartTime>2014-12-13T16:48:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
@@ -254,8 +254,8 @@
       <VixenPreviewData xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Preview.VixenPreview" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
         <ModuleInstanceId xmlns="">80a82557-b168-4a90-8206-130253f74410</ModuleInstanceId>
         <ModuleTypeId xmlns="">f43c31bc-cfcd-4dbc-adb7-d349c9ec623d</ModuleTypeId>
-        <BackgroundAlpha>52</BackgroundAlpha>
-        <BackgroundFileName>C:\Users\kc\Documents\Vixen 3\Module Data Files\VixenDisplayPreview\66737e5d-ca09-4f01-9d25-b00055704c79.jpg</BackgroundFileName>
+        <BackgroundAlpha>76</BackgroundAlpha>
+        <BackgroundFileName>C:\Users\kc\Documents\Vixen 3\Module Data Files\VixenDisplayPreview\7fd58e01-6d00-415f-8569-c8c176269bf1.JPG</BackgroundFileName>
         <DisplayItems xmlns:a="http://schemas.datacontract.org/2004/07/VixenModules.Preview.VixenPreview.Shapes">
           <a:DisplayItem>
             <a:Shape i:type="a:PreviewNet">
