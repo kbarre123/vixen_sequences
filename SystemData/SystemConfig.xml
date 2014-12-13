@@ -343,5 +343,6 @@
   </Patches>
   <DisabledDevices>
     <Device id="32c23ef7-75a8-4b9b-9a49-77af6cd6f0ec" />
+    <Device id="80a82557-b168-4a90-8206-130253f74410" />
   </DisabledDevices>
 </SystemConfig>
