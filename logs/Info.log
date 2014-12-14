@@ -518,3 +518,11 @@
 12/14/2014 17:32:28 [Scheduler] ExecuteAction: Pause for 10 seconds 
 12/14/2014 17:32:28 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/14/2014 17:32:28 [Scheduler] (Xmas Show) Starting action: Pause for 10 seconds 
+12/14/2014 17:32:28 [Scheduler] OnSequentialActionComplete 
+12/14/2014 17:32:28 [Scheduler] (Xmas Show) Sequential action complete: Pause for 10 seconds 
+12/14/2014 17:32:28 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/14/2014 17:32:28 [Scheduler] ExecuteNextSequentialItem 
+12/14/2014 17:32:28 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/14/2014 17:32:28 [Scheduler] ExecuteAction: Run sequence: wizards.tim 
+12/14/2014 17:32:28 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/14/2014 17:32:28 [Scheduler] (Xmas Show) Starting action: Run sequence: wizards.tim 
