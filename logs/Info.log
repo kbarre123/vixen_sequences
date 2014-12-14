@@ -351,3 +351,39 @@
 12/13/2014 17:21:17 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 
 12/13/2014 17:21:17 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
 12/13/2014 17:21:21 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+12/13/2014 17:21:25 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/13/2014 17:21:25 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/13/2014 17:21:25 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+12/13/2014 17:21:53 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 17:23:36 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 17:25:47 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: wizards 
+12/13/2014 17:29:27 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 17:31:33 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: wizards 
+12/13/2014 17:35:12 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 17:51:50 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: wizards 
+12/13/2014 18:59:59 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 19:01:32 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 19:03:42 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: wizards 
+12/13/2014 19:07:22 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 19:09:34 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: wizards 
+12/13/2014 19:12:53 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 19:14:23 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 19:16:41 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: wizards 
+12/13/2014 19:53:06 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 20:20:25 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 20:30:32 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 20:36:33 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 20:38:07 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 20:40:18 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: wizards 
+12/13/2014 20:43:46 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 20:48:02 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 21:02:22 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 21:03:55 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 21:06:05 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: wizards 
+12/13/2014 22:06:16 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: carol_of_bells 
+12/13/2014 22:07:49 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: rockin_around_the_xmas_tree 
+12/13/2014 22:10:04 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: wizards 
+12/13/2014 22:15:58 [VixenModules.App.WebServer.Actions.PlayController] Web - Prerendering effects for sequence: test 
+12/14/2014 13:38:47 [Vixen.Sys.VixenSystem] Vixen System stopping... 
+12/14/2014 13:38:48 [Vixen.Sys.State.Execution.ClosingState] Vixen execution engine entering the closing state... 
+12/14/2014 13:38:48 [Vixen.Sys.State.Execution.ClosedState] Vixen execution engine entered the closed state. 

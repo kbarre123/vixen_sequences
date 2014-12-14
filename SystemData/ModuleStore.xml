@@ -149,13 +149,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2015-01-03T00:00:00</EndDate>
-            <EndTime>2014-12-13T22:00:00</EndTime>
+            <EndTime>2014-12-14T22:00:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-13T00:00:00</StartDate>
-            <StartTime>2014-12-13T17:20:00</StartTime>
+            <StartTime>2014-12-14T17:20:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
