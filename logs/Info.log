@@ -469,3 +469,9 @@
 12/14/2014 17:26:49 [Scheduler] ExecuteAction: Run sequence: carol_of_bells.tim 
 12/14/2014 17:26:49 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/14/2014 17:26:49 [Scheduler] (Xmas Show) Starting action: Run sequence: carol_of_bells.tim 
+12/14/2014 17:27:07 [Scheduler] (Xmas Show) Stopping action: Run sequence: carol_of_bells.tim 
+12/14/2014 17:27:08 [Scheduler] (Xmas Show) Show stopped immediately 
+12/14/2014 17:27:08 [Scheduler] OnSequentialActionComplete 
+12/14/2014 17:27:08 [Scheduler] (Xmas Show) Sequential action complete: Run sequence: carol_of_bells.tim 
+12/14/2014 17:27:08 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/14/2014 17:27:08 [Scheduler] ExecuteNextSequentialItem 
