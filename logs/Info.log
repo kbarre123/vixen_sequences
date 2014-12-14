@@ -393,3 +393,5 @@
 12/14/2014 17:15:57 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
 12/14/2014 17:15:57 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
 12/14/2014 17:19:39 [Scheduler] Schedule Enabled 
+12/14/2014 17:20:00 [Scheduler] (Xmas Show) Show started 
+12/14/2014 17:20:02 [Scheduler] (Xmas Show) Pre-processing: Run sequence: carol_of_bells.tim 
