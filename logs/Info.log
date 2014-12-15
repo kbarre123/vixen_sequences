@@ -1165,3 +1165,27 @@
 12/15/2014 17:49:13 [Scheduler] ExecuteAction: Run sequence: test.tim 
 12/15/2014 17:49:13 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/15/2014 17:49:13 [Scheduler] (New Show) Starting action: Run sequence: test.tim 
+12/15/2014 17:50:14 [Scheduler] OnSequentialActionComplete 
+12/15/2014 17:50:14 [Scheduler] (New Show) Sequential action complete: Run sequence: test.tim 
+12/15/2014 17:50:14 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/15/2014 17:50:14 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:50:14 [Scheduler] ExecuteNextSequentialItem: BeginSequential 
+12/15/2014 17:50:14 [Scheduler] BeginSequential 
+12/15/2014 17:50:14 [Scheduler] BeginSequential: Enqueue:Run sequence: test.tim 
+12/15/2014 17:50:14 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:50:14 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/15/2014 17:50:14 [Scheduler] ExecuteAction: Run sequence: test.tim 
+12/15/2014 17:50:14 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/15/2014 17:50:14 [Scheduler] (New Show) Starting action: Run sequence: test.tim 
+12/15/2014 17:51:14 [Scheduler] OnSequentialActionComplete 
+12/15/2014 17:51:14 [Scheduler] (New Show) Sequential action complete: Run sequence: test.tim 
+12/15/2014 17:51:14 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/15/2014 17:51:14 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:51:14 [Scheduler] ExecuteNextSequentialItem: BeginSequential 
+12/15/2014 17:51:14 [Scheduler] BeginSequential 
+12/15/2014 17:51:14 [Scheduler] BeginSequential: Enqueue:Run sequence: test.tim 
+12/15/2014 17:51:14 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:51:14 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/15/2014 17:51:14 [Scheduler] ExecuteAction: Run sequence: test.tim 
+12/15/2014 17:51:14 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/15/2014 17:51:14 [Scheduler] (New Show) Starting action: Run sequence: test.tim 
