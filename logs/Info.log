@@ -1095,3 +1095,13 @@
 12/15/2014 17:45:24 [Scheduler] Schedule Enabled 
 12/15/2014 17:45:24 [Scheduler] (New Show) Show started 
 12/15/2014 17:45:24 [Scheduler] (New Show) Pre-processing: Run sequence: test.tim 
+12/15/2014 17:45:24 [Scheduler] BeginSequential 
+12/15/2014 17:45:24 [Scheduler] BeginSequential: Enqueue:Run sequence: test.tim 
+12/15/2014 17:45:24 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:45:24 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/15/2014 17:45:24 [Scheduler] ExecuteAction: Run sequence: test.tim 
+12/15/2014 17:45:24 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/15/2014 17:45:24 [Scheduler] (New Show) Starting action: Run sequence: test.tim 
+12/15/2014 17:45:25 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/15/2014 17:45:25 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/15/2014 17:45:25 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
