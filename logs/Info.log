@@ -928,3 +928,6 @@
 12/14/2014 19:27:48 [Scheduler] (Xmas Show) Show stopped immediately 
 12/14/2014 19:27:48 [Scheduler] Schedule Disabled 
 12/15/2014 17:24:43 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+12/15/2014 17:25:05 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/15/2014 17:25:06 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/15/2014 17:25:06 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
