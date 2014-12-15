@@ -1,0 +1,6 @@
+12/15/2014 17:31:35 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\logs\Error.log> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\logs\Error.log> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
