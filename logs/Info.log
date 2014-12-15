@@ -1142,3 +1142,17 @@
 12/15/2014 17:48:26 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/15/2014 17:48:26 [Scheduler] (New Show) Pre-processing action: Run sequence: test.tim 
 12/15/2014 17:48:26 [Scheduler] (New Show) Starting action: Run sequence: test.tim 
+12/15/2014 17:48:52 [Scheduler] (Xmas Show) Show stopped immediately 
+12/15/2014 17:48:52 [Scheduler] (Xmas Show) Show stopped immediately 
+12/15/2014 17:48:52 [Scheduler] (Xmas Show) Show stopped immediately 
+12/15/2014 17:48:52 [Scheduler] (Xmas Show) Show stopped immediately 
+12/15/2014 17:48:52 [Scheduler] (Xmas Show) Show stopped immediately 
+12/15/2014 17:48:52 [Scheduler] (Xmas Show) Show stopped immediately 
+12/15/2014 17:48:52 [Scheduler] (Xmas Show) Show stopped immediately 
+12/15/2014 17:48:52 [Scheduler] (Xmas Show) Show stopped immediately 
+12/15/2014 17:48:52 [Scheduler] (New Show) Stopping action: Run sequence: test.tim 
+12/15/2014 17:48:52 [Scheduler] (New Show) Show stopped immediately 
+12/15/2014 17:48:53 [Scheduler] OnSequentialActionComplete 
+12/15/2014 17:48:53 [Scheduler] (New Show) Sequential action complete: Run sequence: test.tim 
+12/15/2014 17:48:53 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/15/2014 17:48:53 [Scheduler] ExecuteNextSequentialItem 
