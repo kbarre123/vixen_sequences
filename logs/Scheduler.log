@@ -532,3 +532,7 @@
 12/14/2014 19:00:00 [Scheduler] ExecuteAction: Run sequence: carol_of_bells.tim 
 12/14/2014 19:00:00 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/14/2014 19:00:00 [Scheduler] (Xmas Show) Starting action: Run sequence: carol_of_bells.tim 
+12/14/2014 19:01:25 [Scheduler] (Xmas Show) Startup action complete: Run sequence: carol_of_bells.tim 
+12/14/2014 19:01:25 [Scheduler] ExecuteAction: Run sequence: rockin_around_the_xmas_tree.tim 
+12/14/2014 19:01:25 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/14/2014 19:01:25 [Scheduler] (Xmas Show) Starting action: Run sequence: rockin_around_the_xmas_tree.tim 
