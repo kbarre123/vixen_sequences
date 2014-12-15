@@ -699,3 +699,25 @@
 12/15/2014 17:45:05 [Scheduler] (Xmas Show) Show stopped immediately 
 12/15/2014 17:45:05 [Scheduler] (Xmas Show) Show stopped immediately 
 12/15/2014 17:45:05 [Scheduler] (New Show) Show stopped immediately 
+12/15/2014 17:45:24 [Scheduler] Schedule Enabled 
+12/15/2014 17:45:24 [Scheduler] (New Show) Show started 
+12/15/2014 17:45:24 [Scheduler] (New Show) Pre-processing: Run sequence: test.tim 
+12/15/2014 17:45:24 [Scheduler] BeginSequential 
+12/15/2014 17:45:24 [Scheduler] BeginSequential: Enqueue:Run sequence: test.tim 
+12/15/2014 17:45:24 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:45:24 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/15/2014 17:45:24 [Scheduler] ExecuteAction: Run sequence: test.tim 
+12/15/2014 17:45:24 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/15/2014 17:45:24 [Scheduler] (New Show) Starting action: Run sequence: test.tim 
+12/15/2014 17:46:25 [Scheduler] OnSequentialActionComplete 
+12/15/2014 17:46:25 [Scheduler] (New Show) Sequential action complete: Run sequence: test.tim 
+12/15/2014 17:46:25 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/15/2014 17:46:25 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:46:25 [Scheduler] ExecuteNextSequentialItem: BeginSequential 
+12/15/2014 17:46:25 [Scheduler] BeginSequential 
+12/15/2014 17:46:25 [Scheduler] BeginSequential: Enqueue:Run sequence: test.tim 
+12/15/2014 17:46:25 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:46:25 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/15/2014 17:46:25 [Scheduler] ExecuteAction: Run sequence: test.tim 
+12/15/2014 17:46:25 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/15/2014 17:46:25 [Scheduler] (New Show) Starting action: Run sequence: test.tim 
