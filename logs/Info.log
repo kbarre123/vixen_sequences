@@ -998,3 +998,15 @@
 12/15/2014 17:38:35 [Scheduler] ExecuteAction: Run sequence: test.tim 
 12/15/2014 17:38:35 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/15/2014 17:38:35 [Scheduler] (New Show) Starting action: Run sequence: test.tim 
+12/15/2014 17:39:35 [Scheduler] OnSequentialActionComplete 
+12/15/2014 17:39:35 [Scheduler] (New Show) Sequential action complete: Run sequence: test.tim 
+12/15/2014 17:39:35 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/15/2014 17:39:35 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:39:35 [Scheduler] ExecuteNextSequentialItem: BeginSequential 
+12/15/2014 17:39:35 [Scheduler] BeginSequential 
+12/15/2014 17:39:35 [Scheduler] BeginSequential: Enqueue:Run sequence: test.tim 
+12/15/2014 17:39:35 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:39:35 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/15/2014 17:39:35 [Scheduler] ExecuteAction: Run sequence: test.tim 
+12/15/2014 17:39:35 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/15/2014 17:39:35 [Scheduler] (New Show) Starting action: Run sequence: test.tim 
