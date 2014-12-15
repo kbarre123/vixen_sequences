@@ -1037,3 +1037,7 @@
 12/15/2014 17:40:54 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
 12/15/2014 17:40:54 [Scheduler] ExecuteNextSequentialItem 
 12/15/2014 17:41:42 [Vixen.Sys.VixenSystem] Vixen System starting up... 
+12/15/2014 17:41:46 [Scheduler] Schedule Enabled 
+12/15/2014 17:41:46 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/15/2014 17:41:47 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/15/2014 17:41:47 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
