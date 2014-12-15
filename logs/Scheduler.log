@@ -760,3 +760,4 @@
 12/15/2014 17:48:53 [Scheduler] (New Show) Sequential action complete: Run sequence: test.tim 
 12/15/2014 17:48:53 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
 12/15/2014 17:48:53 [Scheduler] ExecuteNextSequentialItem 
+12/15/2014 17:48:59 [Scheduler] (New Show) Show started 
