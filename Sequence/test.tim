@@ -409,7 +409,7 @@
           <NodeId>de168c5f-00d4-4ebf-b63a-0e8a1b8f03af</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.00176S</TimeSpan>
+      <TimeSpan>PT40.0542145S</TimeSpan>
       <TypeId>32cff8e0-5b10-4466-a093-0d232c55aac0</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
