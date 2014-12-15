@@ -136,6 +136,11 @@
             </Items>
             <Name>Xmas Show</Name>
           </Show>
+          <Show>
+            <ID>3f7dca07-0af8-4cc2-869a-43def930e60a</ID>
+            <Items />
+            <Name>New Show</Name>
+          </Show>
         </Shows>
       </ShowsData>
     </Module>
@@ -144,18 +149,18 @@
         <ModuleInstanceId xmlns="">985315e8-2b83-4d1a-89d1-58bfea7835a0</ModuleInstanceId>
         <ModuleTypeId xmlns="">985315e8-2b83-4d1a-89d1-58bfea7835a0</ModuleTypeId>
         <CheckIntervalInSeconds>1</CheckIntervalInSeconds>
-        <IsEnabled>false</IsEnabled>
+        <IsEnabled>true</IsEnabled>
         <Items>
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2015-01-03T00:00:00</EndDate>
-            <EndTime>2014-12-14T18:15:00</EndTime>
+            <EndTime>2014-12-15T18:15:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-13T00:00:00</StartDate>
-            <StartTime>2014-12-14T18:00:00</StartTime>
+            <StartTime>2014-12-15T18:00:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
@@ -164,13 +169,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2015-01-03T00:00:00</EndDate>
-            <EndTime>2014-12-14T18:45:00</EndTime>
+            <EndTime>2014-12-15T18:45:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-14T00:00:00</StartDate>
-            <StartTime>2014-12-14T18:30:00</StartTime>
+            <StartTime>2014-12-15T18:30:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
@@ -179,13 +184,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2015-01-03T00:00:00</EndDate>
-            <EndTime>2014-12-14T19:15:00</EndTime>
+            <EndTime>2014-12-15T19:15:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-14T00:00:00</StartDate>
-            <StartTime>2014-12-14T19:00:00</StartTime>
+            <StartTime>2014-12-15T19:00:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
@@ -194,13 +199,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2015-01-03T00:00:00</EndDate>
-            <EndTime>2014-12-14T19:45:00</EndTime>
+            <EndTime>2014-12-15T19:45:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-14T00:00:00</StartDate>
-            <StartTime>2014-12-14T19:30:00</StartTime>
+            <StartTime>2014-12-15T19:30:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
@@ -209,13 +214,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2015-01-03T00:00:00</EndDate>
-            <EndTime>2014-12-14T20:15:00</EndTime>
+            <EndTime>2014-12-15T20:15:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-14T00:00:00</StartDate>
-            <StartTime>2014-12-14T20:00:00</StartTime>
+            <StartTime>2014-12-15T20:00:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
@@ -224,13 +229,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2015-01-03T00:00:00</EndDate>
-            <EndTime>2014-12-14T20:45:00</EndTime>
+            <EndTime>2014-12-15T20:45:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-14T00:00:00</StartDate>
-            <StartTime>2014-12-14T20:30:00</StartTime>
+            <StartTime>2014-12-15T20:30:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
@@ -239,13 +244,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2015-01-03T00:00:00</EndDate>
-            <EndTime>2014-12-14T21:15:00</EndTime>
+            <EndTime>2014-12-15T21:15:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-14T00:00:00</StartDate>
-            <StartTime>2014-12-14T21:00:00</StartTime>
+            <StartTime>2014-12-15T21:00:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
@@ -254,13 +259,13 @@
           <ScheduleItem>
             <Enabled>true</Enabled>
             <EndDate>2015-01-03T00:00:00</EndDate>
-            <EndTime>2014-12-14T21:45:00</EndTime>
+            <EndTime>2014-12-15T21:45:00</EndTime>
             <Friday>true</Friday>
             <Monday>true</Monday>
             <Saturday>true</Saturday>
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-14T00:00:00</StartDate>
-            <StartTime>2014-12-14T21:30:00</StartTime>
+            <StartTime>2014-12-15T21:30:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
