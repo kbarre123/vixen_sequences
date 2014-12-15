@@ -938,3 +938,6 @@
 12/15/2014 17:31:36 [Vixen.Sys.VixenSystem] Vixen System successfully stopped. 
 12/15/2014 17:31:42 [Vixen.Sys.VixenSystem] Vixen System starting up... 
 12/15/2014 17:31:46 [Scheduler] Schedule Enabled 
+12/15/2014 17:31:47 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
+12/15/2014 17:31:47 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
+12/15/2014 17:31:47 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
