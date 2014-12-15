@@ -138,7 +138,23 @@
           </Show>
           <Show>
             <ID>3f7dca07-0af8-4cc2-869a-43def930e60a</ID>
-            <Items />
+            <Items>
+              <ShowItem>
+                <Action>Sequence</Action>
+                <ItemOrder>0</ItemOrder>
+                <ItemType>Sequential</ItemType>
+                <Launch_CommandLine i:nil="true" />
+                <Launch_ProgramName i:nil="true" />
+                <Launch_ShowCommandWindow>false</Launch_ShowCommandWindow>
+                <Launch_WaitForExit>false</Launch_WaitForExit>
+                <Name>Run sequence: test.tim</Name>
+                <Pause_Seconds>0</Pause_Seconds>
+                <Sequence_FileName>C:\Users\kc\Documents\Vixen 3\Sequence\test.tim</Sequence_FileName>
+                <Show_ShowID>00000000-0000-0000-0000-000000000000</Show_ShowID>
+                <Show_StopCurrentShow>false</Show_StopCurrentShow>
+                <Website_URL i:nil="true" />
+              </ShowItem>
+            </Items>
             <Name>New Show</Name>
           </Show>
         </Shows>
@@ -266,6 +282,21 @@
             <ShowID>8feed932-e453-44c4-98f5-5d8651ce4550</ShowID>
             <StartDate>2014-12-14T00:00:00</StartDate>
             <StartTime>2014-12-15T21:30:00</StartTime>
+            <Sunday>true</Sunday>
+            <Thursday>true</Thursday>
+            <Tuesday>true</Tuesday>
+            <Wednesday>true</Wednesday>
+          </ScheduleItem>
+          <ScheduleItem>
+            <Enabled>true</Enabled>
+            <EndDate>2015-01-03T00:00:00</EndDate>
+            <EndTime>2014-12-15T17:59:00</EndTime>
+            <Friday>true</Friday>
+            <Monday>true</Monday>
+            <Saturday>true</Saturday>
+            <ShowID>3f7dca07-0af8-4cc2-869a-43def930e60a</ShowID>
+            <StartDate>2014-12-15T00:00:00</StartDate>
+            <StartTime>2014-12-15T17:30:00</StartTime>
             <Sunday>true</Sunday>
             <Thursday>true</Thursday>
             <Tuesday>true</Tuesday>
