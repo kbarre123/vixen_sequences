@@ -1063,3 +1063,5 @@
 12/15/2014 17:42:46 [Vixen.Sys.State.Execution.OpeningState] Vixen execution engine entering the open state... 
 12/15/2014 17:42:47 [Vixen.Sys.State.Execution.OpenState] Vixen execution engine entered the open state. 
 12/15/2014 17:42:47 [Vixen.Sys.VixenSystem] Vixen System successfully started. 
+12/15/2014 17:43:26 [Scheduler] (New Show) Show started 
+12/15/2014 17:43:26 [Scheduler] BeginSequential 
