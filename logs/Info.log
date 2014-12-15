@@ -872,3 +872,10 @@
 12/14/2014 18:33:03 [Scheduler] (Xmas Show) Sequential action complete: Run sequence: wizards.tim 
 12/14/2014 18:33:03 [Scheduler] (Xmas Show) Starting shutdown 
 12/14/2014 18:33:03 [Scheduler] (Xmas Show) Show complete 
+12/14/2014 18:36:17 [Scheduler] (Xmas Show) Show started 
+12/14/2014 18:36:17 [Scheduler] (Xmas Show) Pre-processing: Run sequence: carol_of_bells.tim 
+12/14/2014 18:36:17 [Scheduler] (Xmas Show) Pre-processing: Run sequence: rockin_around_the_xmas_tree.tim 
+12/14/2014 18:36:18 [Scheduler] (Xmas Show) Pre-processing: Run sequence: wizards.tim 
+12/14/2014 18:36:18 [Scheduler] ExecuteAction: Run sequence: carol_of_bells.tim 
+12/14/2014 18:36:18 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/14/2014 18:36:18 [Scheduler] (Xmas Show) Starting action: Run sequence: carol_of_bells.tim 
