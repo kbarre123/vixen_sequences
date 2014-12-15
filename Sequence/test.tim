@@ -2,7 +2,7 @@
 <TimedSequenceData xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
   <ModuleInstanceId xmlns="">a836daaf-6757-4628-a6ae-4f100babf8ef</ModuleInstanceId>
   <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
-  <Length xmlns="">PT1M</Length>
+  <Length xmlns="">PT1M0.055S</Length>
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.SetLevel" i:type="d2p1:SetLevelData">
@@ -194,6 +194,12 @@
         <d3p1:_r>1</d3p1:_r>
       </d2p1:color>
       <d2p1:level>1</d2p1:level>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Media.Audio" i:type="d2p1:AudioData">
+      <ModuleInstanceId>7ae31511-c10a-479e-acae-c0bacf1f5ec3</ModuleInstanceId>
+      <ModuleTypeId>fe460392-3fab-4c63-99dd-d76c48354150</ModuleTypeId>
+      <d2p1:FilePath>C:\Users\kc\Documents\vixen_setup\music\blank_1min.mp3</d2p1:FilePath>
+      <d2p1:RelativeAudioPath>..\Users\kc\Documents\vixen_setup\music\blank_1min.mp3</d2p1:RelativeAudioPath>
     </d1p1:anyType>
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
@@ -408,10 +414,16 @@
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
   <_filterNodeSurrogates xmlns="" />
-  <_mediaSurrogates xmlns="" />
+  <_mediaSurrogates xmlns="">
+    <MediaSurrogate>
+      <FilePath>C:\Users\kc\Documents\vixen_setup\music\blank_1min.mp3</FilePath>
+      <InstanceId>7ae31511-c10a-479e-acae-c0bacf1f5ec3</InstanceId>
+      <TypeId>fe460392-3fab-4c63-99dd-d76c48354150</TypeId>
+    </MediaSurrogate>
+  </_mediaSurrogates>
   <_selectedTimingProviderSurrogate xmlns="">
-    <ProviderType i:nil="true" />
-    <SourceName i:nil="true" />
+    <ProviderType>Media</ProviderType>
+    <SourceName>C:\Users\kc\Documents\vixen_setup\music\blank_1min.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <MarkCollections />
   <TimePerPixel>PT0.0281305S</TimePerPixel>
