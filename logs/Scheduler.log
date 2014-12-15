@@ -389,3 +389,44 @@
 12/14/2014 18:16:45 [Scheduler] ExecuteAction: Run sequence: wizards.tim 
 12/14/2014 18:16:45 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/14/2014 18:16:45 [Scheduler] (Xmas Show) Starting action: Run sequence: wizards.tim 
+12/14/2014 18:19:52 [Scheduler] OnSequentialActionComplete 
+12/14/2014 18:19:52 [Scheduler] (Xmas Show) Sequential action complete: Run sequence: wizards.tim 
+12/14/2014 18:19:52 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/14/2014 18:19:52 [Scheduler] ExecuteNextSequentialItem 
+12/14/2014 18:19:52 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/14/2014 18:19:52 [Scheduler] ExecuteAction: Pause for 100 seconds 
+12/14/2014 18:19:52 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/14/2014 18:19:52 [Scheduler] (Xmas Show) Starting action: Pause for 100 seconds 
+12/14/2014 18:19:52 [Scheduler] OnSequentialActionComplete 
+12/14/2014 18:19:52 [Scheduler] (Xmas Show) Sequential action complete: Pause for 100 seconds 
+12/14/2014 18:19:52 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/14/2014 18:19:52 [Scheduler] ExecuteNextSequentialItem 
+12/14/2014 18:19:52 [Scheduler] ExecuteNextSequentialItem: BeginSequential 
+12/14/2014 18:19:52 [Scheduler] BeginSequential 
+12/14/2014 18:19:52 [Scheduler] BeginSequential: Enqueue:Run sequence: carol_of_bells.tim 
+12/14/2014 18:19:52 [Scheduler] BeginSequential: Enqueue:Pause for 10 seconds 
+12/14/2014 18:19:52 [Scheduler] BeginSequential: Enqueue:Run sequence: rockin_around_the_xmas_tree.tim 
+12/14/2014 18:19:52 [Scheduler] BeginSequential: Enqueue:Pause for 10 seconds 
+12/14/2014 18:19:52 [Scheduler] BeginSequential: Enqueue:Run sequence: wizards.tim 
+12/14/2014 18:19:52 [Scheduler] BeginSequential: Enqueue:Pause for 100 seconds 
+12/14/2014 18:19:52 [Scheduler] ExecuteNextSequentialItem 
+12/14/2014 18:19:52 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/14/2014 18:19:52 [Scheduler] ExecuteAction: Run sequence: carol_of_bells.tim 
+12/14/2014 18:19:52 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/14/2014 18:19:52 [Scheduler] (Xmas Show) Starting action: Run sequence: carol_of_bells.tim 
+12/14/2014 18:21:17 [Scheduler] OnSequentialActionComplete 
+12/14/2014 18:21:17 [Scheduler] (Xmas Show) Sequential action complete: Run sequence: carol_of_bells.tim 
+12/14/2014 18:21:17 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/14/2014 18:21:17 [Scheduler] ExecuteNextSequentialItem 
+12/14/2014 18:21:17 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/14/2014 18:21:17 [Scheduler] ExecuteAction: Pause for 10 seconds 
+12/14/2014 18:21:17 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/14/2014 18:21:17 [Scheduler] (Xmas Show) Starting action: Pause for 10 seconds 
+12/14/2014 18:21:18 [Scheduler] OnSequentialActionComplete 
+12/14/2014 18:21:18 [Scheduler] (Xmas Show) Sequential action complete: Pause for 10 seconds 
+12/14/2014 18:21:18 [Scheduler] OnSequentialActionComplete: Shutdown NOT requested 
+12/14/2014 18:21:18 [Scheduler] ExecuteNextSequentialItem 
+12/14/2014 18:21:18 [Scheduler] ExecuteNextSequentialItem: Dequeue 
+12/14/2014 18:21:18 [Scheduler] ExecuteAction: Run sequence: rockin_around_the_xmas_tree.tim 
+12/14/2014 18:21:18 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/14/2014 18:21:18 [Scheduler] (Xmas Show) Starting action: Run sequence: rockin_around_the_xmas_tree.tim 
