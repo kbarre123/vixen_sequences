@@ -868,3 +868,7 @@
 12/14/2014 18:29:57 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/14/2014 18:29:57 [Scheduler] (Xmas Show) Starting action: Run sequence: wizards.tim 
 12/14/2014 18:31:40 [Scheduler] (Xmas Show) Show stopping gracefully 
+12/14/2014 18:33:03 [Scheduler] OnSequentialActionComplete 
+12/14/2014 18:33:03 [Scheduler] (Xmas Show) Sequential action complete: Run sequence: wizards.tim 
+12/14/2014 18:33:03 [Scheduler] (Xmas Show) Starting shutdown 
+12/14/2014 18:33:03 [Scheduler] (Xmas Show) Show complete 
