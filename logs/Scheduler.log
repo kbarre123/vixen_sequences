@@ -892,3 +892,9 @@
 12/15/2014 18:01:28 [Scheduler] ExecuteAction: Run sequence: rockin_around_the_xmas_tree.tim 
 12/15/2014 18:01:28 [Scheduler] ExecuteAction: State != StateType.Waiting 
 12/15/2014 18:01:28 [Scheduler] (Xmas Show) Starting action: Run sequence: rockin_around_the_xmas_tree.tim 
+12/15/2014 18:03:33 [Scheduler] (Xmas Show) Startup action complete: Run sequence: rockin_around_the_xmas_tree.tim 
+12/15/2014 18:03:33 [Scheduler] ExecuteAction: Run sequence: wizards.tim 
+12/15/2014 18:03:33 [Scheduler] ExecuteAction: State != StateType.Waiting 
+12/15/2014 18:03:33 [Scheduler] (Xmas Show) Starting action: Run sequence: wizards.tim 
+12/15/2014 18:06:41 [Scheduler] (Xmas Show) Startup action complete: Run sequence: wizards.tim 
+12/15/2014 18:06:41 [Scheduler] BeginSequential 
