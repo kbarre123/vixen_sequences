@@ -496,3 +496,9 @@ Parameter name: path
    at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
    at GitSharp.Repository.Commit(String message)
    at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:14:32 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
