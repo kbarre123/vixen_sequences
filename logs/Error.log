@@ -454,3 +454,45 @@ Parameter name: path
    at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
    at GitSharp.Repository.Commit(String message)
    at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:12 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:14 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:17 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:19 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:21 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Delete(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Delete(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:23 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:28 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()

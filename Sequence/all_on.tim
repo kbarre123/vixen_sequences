@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimedSequenceData xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
+  <ModuleInstanceId xmlns="">414f9259-289e-4355-a94f-ca115af99094</ModuleInstanceId>
+  <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
+  <Length xmlns="">PT1M0.055S</Length>
+  <Version xmlns="">0</Version>
+  <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Media.Audio" i:type="d2p1:AudioData">
+      <ModuleInstanceId>0120de76-32ad-4b55-9abe-ae84a233a10a</ModuleInstanceId>
+      <ModuleTypeId>fe460392-3fab-4c63-99dd-d76c48354150</ModuleTypeId>
+      <d2p1:FilePath>C:\Users\kc\Documents\vixen_setup\music\blank_1min.mp3</d2p1:FilePath>
+      <d2p1:RelativeAudioPath>..\Users\kc\Documents\vixen_setup\music\blank_1min.mp3</d2p1:RelativeAudioPath>
+    </d1p1:anyType>
+  </_dataModels>
+  <_effectNodeSurrogates xmlns="" />
+  <_filterNodeSurrogates xmlns="" />
+  <_mediaSurrogates xmlns="">
+    <MediaSurrogate>
+      <FilePath>C:\Users\kc\Documents\vixen_setup\music\blank_1min.mp3</FilePath>
+      <InstanceId>0120de76-32ad-4b55-9abe-ae84a233a10a</InstanceId>
+      <TypeId>fe460392-3fab-4c63-99dd-d76c48354150</TypeId>
+    </MediaSurrogate>
+  </_mediaSurrogates>
+  <_selectedTimingProviderSurrogate xmlns="">
+    <ProviderType>Media</ProviderType>
+    <SourceName>C:\Users\kc\Documents\vixen_setup\music\blank_1min.mp3</SourceName>
+  </_selectedTimingProviderSurrogate>
+  <MarkCollections />
+  <TimePerPixel>-P10675199DT2H48M5.4775808S</TimePerPixel>
+</TimedSequenceData>
