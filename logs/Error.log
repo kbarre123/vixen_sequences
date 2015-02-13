@@ -1,0 +1,584 @@
+12/15/2014 17:31:35 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\logs\Error.log> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\logs\Error.log> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:33:36 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:33:39 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:33:41 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:33:43 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:33:45 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:33:47 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Delete(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Delete(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:33:49 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:39:55 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:09 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:12 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:14 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:16 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:19 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:21 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:23 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:26 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:28 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:30 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:33 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:35 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:42 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:45 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:47 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:50 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:40:52 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:41:00 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:41:02 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:41:05 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:41:07 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:41:09 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:41:12 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:41:54 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:01 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:03 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:06 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:08 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:10 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:13 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:15 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:17 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:20 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:22 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:24 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:28 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:30 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:32 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:51 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:54 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:42:58 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:45:30 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:45:32 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:45:37 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:48:40 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:48:43 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:48:45 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:48:48 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:48:50 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:48:52 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:04 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:07 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:09 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:11 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:20 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:22 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:25 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:27 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:29 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:32 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:36 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:41 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 17:49:46 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:11:08 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:11:12 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:11:15 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:11:17 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:12 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:14 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:17 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:19 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:21 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Delete(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Delete(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:23 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:13:28 [VersionControl.Module] There are no changes to commit System.InvalidOperationException: There are no changes to commit
+   at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.CommitChanges(String message, Author author)
+   at GitSharp.Repository.Commit(String message)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/15/2014 18:14:32 [VersionControl.Module] File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path System.ArgumentException: File or directory at <C:\Users\kc\Documents\Vixen 3\Sequence\all_on.tim> doesn't seem to exist.
+Parameter name: path
+   at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()    at GitSharp.Index.Add(String[] paths)
+   at VersionControl.Module.<>c__DisplayClass8.<watcher_FileSystemChanges>b__7()
+12/17/2014 16:55:55 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/17/2014 16:57:55 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/17/2014 16:59:55 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/17/2014 17:01:55 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/20/2014 17:36:20 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Generic Serial error System.IO.IOException: The port 'COM4' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+12/20/2014 17:36:24 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Generic Serial experienced an error during execution and was shutdown. 
+12/24/2014 09:08:17 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2014 15:50:03 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Generic Serial error System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+12/24/2014 15:50:11 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Generic Serial experienced an error during execution and was shutdown. 
+12/24/2014 17:14:09 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2014 17:16:09 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2014 17:18:09 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2014 17:20:09 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2014 18:00:00 [VixenModules.App.Shows.SequenceAction] Could not pre-render sequence C:\Users\kc\Documents\Vixen 3\Sequence\carol_of_bells.tim; The process cannot access the file 'C:\Users\kc\Documents\Vixen 3\Sequence\carol_of_bells.tim' because it is being used by another process. 
+12/24/2014 19:01:28 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2014 19:03:28 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2014 19:05:28 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/24/2014 19:07:28 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+12/25/2014 14:09:10 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Generic Serial error System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+12/25/2014 17:01:09 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Generic Serial experienced an error during execution and was shutdown. 
+01/04/2015 17:33:47 [Vixen.Sys.Managers.HardwareUpdateThread] Controller Generic Serial error System.IO.IOException: A device attached to the system is not functioning.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()    at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.BeginWriteCore(Byte[] array, Int32 offset, Int32 numBytes, AsyncCallback userCallback, Object stateObject)
+   at System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at VixenModules.Output.GenericSerial.Module.UpdateState(Int32 chainIndex, ICommand[] outputStates)
+   at Vixen.Sys.Output.OutputController.Update()
+   at Vixen.Sys.Managers.HardwareUpdateThread._ThreadFunc()
+01/05/2015 14:13:26 [Vixen.Sys.Managers.OutputDeviceExecution`1] Device Generic Serial experienced an error during execution and was shutdown. 
+01/21/2015 12:55:42 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+02/13/2015 12:32:49 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+02/13/2015 12:34:49 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
