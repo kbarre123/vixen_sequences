@@ -582,3 +582,5 @@ Parameter name: path
 01/21/2015 12:55:42 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
 02/13/2015 12:32:49 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
 02/13/2015 12:34:49 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+02/13/2015 12:36:46 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
+02/13/2015 12:38:46 [VixenModules.Output.GenericSerial.Module] COM4 is in use.  Starting controller retry timer for d22c9233-16e9-4008-a215-e577f78a7a2e 
